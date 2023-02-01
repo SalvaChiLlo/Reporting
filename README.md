@@ -5,6 +5,8 @@
 * [Modo Aplicación Web](#modo-aplicación-web-frontend--backend)
 * [Despliegue en Docker](#despliegue-en-docker)
 
+*Para detalles más específicos de cada uno de los servicios mirar su repositorio correspondiente*
+
 ## Primeros pasos
 El primer paso para poder poner en marcha el proyecto es, clonar el repositorio e instalar las dependencias necesarias mediante npm.
 ```
