@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "cli": "./reporting",
-    "serve": "(cd ReportingBackend && npm run startSERVER) & (cd ReportingFrontend && npm run start -- --host 0.0.0.0 --open)",
+    "serveBack": "cd ReportingBackend && npm run startSERVER",
+    "serveFront": "cd ReportingFrontend && npm run start -- --host 0.0.0.0 --open",
     "install": "git submodule foreach npm install"
   },
   "repository": {

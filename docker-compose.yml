@@ -12,4 +12,4 @@ services:
     ports:
       - 80:80
     environment:
-      - BACKEND_BASE_URL=http://dev.int:8080
+      - BACKEND_BASE_URL=http://localhost:8080
