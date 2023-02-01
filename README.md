@@ -37,3 +37,4 @@ npm run serveFront
 ## Despliegue en Docker
 Si quieres probar la herramienta pero no quieres instalar ninguna dependencia, puedes utilizar Docker.
 En este [docker-compose.yml](https://github.com/SalvaChiLlo/Reporting/blob/main/docker-compose.yml) encontrarás la definción de los servicios, la cual, podrás lanzar a ejecución con el comando `docker-compose up -d`.
+Una vez lanzado, con la configuración por defecto, podrás acceder a la aplicación web a través de [http://localhost](http://localhost)
