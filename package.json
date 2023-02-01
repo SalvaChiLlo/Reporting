@@ -1,0 +1,21 @@
+{
+  "name": "reporting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cli": "./reporting",
+    "serve": "(cd ReportingBackend && npm run startSERVER) & (cd ReportingFrontend && npm run start -- --host 0.0.0.0 --open)",
+    "install": "git submodule foreach npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvaChiLlo/Reporting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}

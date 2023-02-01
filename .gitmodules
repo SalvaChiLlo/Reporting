@@ -1,0 +1,6 @@
+[submodule "ReportingFrontend"]
+	path = ReportingFrontend
+	url = git@github.com:SalvaChiLlo/ReportingFrontend.git
+[submodule "ReportingBackend"]
+	path = ReportingBackend
+	url = https://github.com/SalvaChiLlo/ReportingBackend.git

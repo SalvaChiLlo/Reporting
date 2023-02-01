@@ -1,0 +1,15 @@
+version: '3'
+services:
+  backend: 
+    image: salvachll/reporting-prueba
+    ports: 
+      - 8080:8080
+    environment:
+      - REPORTING_IP=0.0.0.0
+      - REPORTING_PORT=8080
+  frontend:
+    image: salvachll/reporting-front-prueba
+    ports:
+      - 80:80
+    environment:
+      - BACKEND_BASE_URL=http://dev.int:8080
