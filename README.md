@@ -6,6 +6,8 @@
 - [Despliegue en Docker](#despliegue-en-docker)
 - [Enlaces de Interés/Bibliografía](#enlaces-de-interés--bibliografía)
 
+En este _README_ se explicará cómo se puede utilizar la herramienta, así como realizar el despliegue de ambos servicios de una forma sencilla.
+
 _Para detalles más específicos de cada uno de los servicios mirar su repositorio correspondiente._
 
 ## Primeros pasos
@@ -50,12 +52,13 @@ npm run serveFront
 
 Si quieres probar la herramienta pero **no quieres instalar ninguna dependencia**, puedes **utilizar Docker**.
 
-En este __[docker-compose.yml](https://github.com/SalvaChiLlo/Reporting/blob/main/docker-compose.yml)__ encontrarás la definción de los servicios, la cual, podrás lanzar a ejecución con el comando 
+En este **[docker-compose.yml](https://github.com/SalvaChiLlo/Reporting/blob/main/docker-compose.yml)** encontrarás la definción de los servicios, la cual, podrás lanzar a ejecución con el comando
+
 ```
 docker-compose up -d
 ```
 
-Una vez lanzado, con la configuración por defecto, podrás __acceder a la aplicación web a través de [http://localhost](http://localhost)__.
+Una vez lanzado, se habrán creado dos contenedores, uno para el frontend y otro para el backend. Con la configuración por defecto, podrás **acceder a la aplicación web a través de [http://localhost](http://localhost)**.
 
 ## Enlaces de interés / Bibliografía
 
