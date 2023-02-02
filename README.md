@@ -14,10 +14,9 @@ El primer paso para poder poner en marcha el proyecto es, clonar el repositorio 
 
 ```
 git clone --recurse-submodule -j8 git@github.com:SalvaChiLlo/Reporting.git
-
 cd Reporting
-
 npm install
+npm install -g ts-node
 ```
 
 ## Modo CLI
