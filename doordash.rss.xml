@@ -10,7 +10,7 @@
     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
   >
   
-    <channel>
+    
       <title>DoorDash Engineering Blog</title>
       <atom:link href="https://raw.githubusercontent.com/SalvaChiLlo/Reporting/main/doordash.rss.xml" rel="self" type="application/rss+xml" />
       <link>https://doordash.engineering/</link>
@@ -196,4 +196,3 @@ Special thanks to Tae Kim, our amazing Content Strategy lead at DoorDash and Jus
 ]]></content:encoded>
     </item>      
 
-  </channel>
