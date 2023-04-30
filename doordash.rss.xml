@@ -42,7 +42,7 @@
       <description>Example Description</description>
 
       <content:encoded><![CDATA[<h1>“Designing” a Career Ladder for Product Design - DoorDash Engineering Blog</h1>
-<section id="posthero" class="" style="background-image:url('https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/1_I0939f-Oq5LjcrcIUnoFNw.png?fit=2544%2C1528&amp;ssl=1')">
+<section id="posthero" class="" >
 		<div class="container">
 			<h1>“Designing” a Career Ladder for Product Design</h1>
 			<div class="meta clearfix">
@@ -121,7 +121,7 @@ I decided to take a design-thinking approach to this task, and went through a pr
 
 &amp;nbsp;
 
-<div id="attachment_802" style="width: 1616px" class="wp-caption alignnone"><img  class="alignnone size-full wp-image-802" src="https://doordash.engineering/wp-content/uploads/2019/09/1_QPEqWgnh9uBVnV-ssxo4g.png" alt="illustration of the design process " width="1606" height="384"/><p id="caption-attachment-802" class="wp-caption-text">The design process</p></div>
+<div id="attachment_802"  class="wp-caption alignnone"><img  class="alignnone size-full wp-image-802" src="https://doordash.engineering/wp-content/uploads/2019/09/1_QPEqWgnh9uBVnV-ssxo4g.png" alt="illustration of the design process " width="1606" height="384"/><p id="caption-attachment-802" class="wp-caption-text">The design process</p></div>
 <h2>Audience and their needs</h2>
 I identified three audiences who would use the career ladder: designers, managers, and HR. I also captured what each audience cared about the most:
 <h3>Designers</h3>
