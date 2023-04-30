@@ -1463,7 +1463,7 @@ flag &amp; LIST_UNIQUE
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -7980,7 +7980,7 @@ export default {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -11662,7 +11662,7 @@ barba.init({
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -13886,7 +13886,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -16400,7 +16400,7 @@ export default {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -17446,7 +17446,7 @@ websocketServer.on('connection', (socket) => {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -18630,7 +18630,7 @@ Mamta Dalal <span class="btn follow">Follow</span></a>
 <iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=217016018&amp;postid=167762&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;jetpack_comments_nonce=65852d7ab1&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_US&amp;jetpack_version=12.0&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;token_key=%3Bnormal%3B&amp;sig=678d3e7da4efdd07df2959b11da2665b9f8b6d0d#parent=https%3A%2F%2Fblog.logrocket.com%2Ffix-nullpointerexception-android%2F" name="jetpack_remote_comment"  class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups">
 									</iframe>
 <!--[if !IE]><!-->
-<script>
+<meta>
 						document.addEventListener('DOMContentLoaded', function () {
 							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
 							for (var i = 0; i &lt; commentForms.length; i++) {
@@ -18668,7 +18668,7 @@ Mamta Dalal <span class="btn follow">Follow</span></a>
 </a>
 </footer>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>window.onload = function() {
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>window.onload = function() {
   if (typeof hljs !== 'undefined')
   {
   document.querySelectorAll('pre').forEach((block) => {
@@ -19079,7 +19079,7 @@ var windowOpen;
 			})();
 		</meta>
 <script src="https://stats.wp.com/e-202317.js" defer="defer"/>
-<script>
+<meta>
 		_stq = window._stq || [];
 		_stq.push([ 'view', {v:'ext',blog:'217016018',post:'167762',tz:'-4',srv:'blog.logrocket.com',hp:'vip',j:'1:12.0'} ]);
 		_stq.push([ 'clickTrackerInit', '217016018', '167762' ]);
@@ -19268,7 +19268,7 @@ var windowOpen;
     <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
         {{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}
     </button>
-</meta><script>
+</meta><meta>
 function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e&lt;&lt;16|h&lt;&lt;8|k;e=63&amp;d>>18;h=63&amp;d>>12;k=63&amp;d>>6;d&amp;=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c&lt;
 a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g&lt;&lt;6)+b,e+=6;8&lt;=e;)((l=255&amp;g>>>(e-=8))||d-2>c)&amp;&amp;(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
 b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
@@ -21335,7 +21335,7 @@ ignored: directory (1)
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -24015,7 +24015,7 @@ fn main() {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -25083,7 +25083,7 @@ export default defineComponent({
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -27415,7 +27415,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -30109,7 +30109,7 @@ export * from "./index_bg.js";
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -30460,7 +30460,7 @@ if input.state == glutin::event::ElementState::Pressed {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -30728,7 +30728,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -31330,7 +31330,7 @@ export default {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -32183,7 +32183,7 @@ Abhinav Anshul <span class="btn follow">Follow</span></a>
 <iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=217016018&amp;postid=167269&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;jetpack_comments_nonce=0d40d047df&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_US&amp;jetpack_version=12.0&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;token_key=%3Bnormal%3B&amp;sig=5dce6df1a6ce1a9f98819b44545923016dc26515#parent=https%3A%2F%2Fblog.logrocket.com%2Funderstanding-prioritize-react-ui-updates%2F" name="jetpack_remote_comment"  class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups">
 									</iframe>
 <!--[if !IE]><!-->
-<script>
+<meta>
 						document.addEventListener('DOMContentLoaded', function () {
 							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
 							for (var i = 0; i &lt; commentForms.length; i++) {
@@ -32221,7 +32221,7 @@ Abhinav Anshul <span class="btn follow">Follow</span></a>
 </a>
 </footer>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>window.onload = function() {
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>window.onload = function() {
   if (typeof hljs !== 'undefined')
   {
   document.querySelectorAll('pre').forEach((block) => {
@@ -32632,7 +32632,7 @@ var windowOpen;
 			})();
 		</meta>
 <script src="https://stats.wp.com/e-202317.js" defer="defer"/>
-<script>
+<meta>
 		_stq = window._stq || [];
 		_stq.push([ 'view', {v:'ext',blog:'217016018',post:'167269',tz:'-4',srv:'blog.logrocket.com',hp:'vip',j:'1:12.0'} ]);
 		_stq.push([ 'clickTrackerInit', '217016018', '167269' ]);
@@ -32821,7 +32821,7 @@ var windowOpen;
     <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
         {{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}
     </button>
-</meta><script>
+</meta><meta>
 function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e&lt;&lt;16|h&lt;&lt;8|k;e=63&amp;d>>18;h=63&amp;d>>12;k=63&amp;d>>6;d&amp;=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c&lt;
 a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g&lt;&lt;6)+b,e+=6;8&lt;=e;)((l=255&amp;g>>>(e-=8))||d-2>c)&amp;&amp;(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
 b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
@@ -33160,7 +33160,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -35291,7 +35291,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 <iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=217016018&amp;postid=165251&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;jetpack_comments_nonce=b4cfc29b07&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_US&amp;jetpack_version=12.0&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;token_key=%3Bnormal%3B&amp;sig=9fbdecd0ca2a003370e7834629b0cf17c123605a#parent=https%3A%2F%2Fblog.logrocket.com%2Fusing-react-lifecycle-methods-clojure-re-frame%2F" name="jetpack_remote_comment"  class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups">
 									</iframe>
 <!--[if !IE]><!-->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>
 						document.addEventListener('DOMContentLoaded', function () {
 							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
 							for (var i = 0; i &lt; commentForms.length; i++) {
@@ -35329,7 +35329,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 </a>
 </footer>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>window.onload = function() {
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>window.onload = function() {
   if (typeof hljs !== 'undefined')
   {
   document.querySelectorAll('pre').forEach((block) => {
@@ -35740,7 +35740,7 @@ var windowOpen;
 			})();
 		</meta>
 <script src="https://stats.wp.com/e-202317.js" defer="defer"/>
-<script>
+<meta>
 		_stq = window._stq || [];
 		_stq.push([ 'view', {v:'ext',blog:'217016018',post:'165251',tz:'-4',srv:'blog.logrocket.com',hp:'vip',j:'1:12.0'} ]);
 		_stq.push([ 'clickTrackerInit', '217016018', '165251' ]);
@@ -35929,7 +35929,7 @@ var windowOpen;
     <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
         {{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}
     </button>
-</meta><script>
+</meta><meta>
 function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e&lt;&lt;16|h&lt;&lt;8|k;e=63&amp;d>>18;h=63&amp;d>>12;k=63&amp;d>>6;d&amp;=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c&lt;
 a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g&lt;&lt;6)+b,e+=6;8&lt;=e;)((l=255&amp;g>>>(e-=8))||d-2>c)&amp;&amp;(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
 b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
@@ -36702,7 +36702,7 @@ fn main () {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<script>
+<meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
