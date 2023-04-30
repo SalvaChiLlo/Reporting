@@ -1,0 +1,384 @@
+
+  <rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  
+    <channel>
+      <title>DoorDash Engineering Blog</title>
+      <atom:link href="https://raw.githubusercontent.com/SalvaChiLlo/Reporting/main/doordash.rss.xml" rel="self" type="application/rss+xml" />
+      <link>https://doordash.engineering/</link>
+      <description>The official blog of the DoorDash Engineering team.</description>
+      <lastBuildDate>Wed, 29 Apr 2023 20:14:47 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>
+    1	</sy:updateFrequency>
+  
+  
+      <image>
+        <url>https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/01/cropped-doordash_icon.jpg?fit=32%2C32&#038;ssl=1</url>
+        <title>DoorDash Engineering Blog</title>
+        <link>https://doordash.engineering/</link>
+        <width>32</width>
+        <height>32</height>
+      </image>
+
+		<item>
+			<title>Boost accessibility for high-contrast users with CSS - LogRocket Blog</title>
+			<link>https://blog.logrocket.com/author/davidomotayo/</link>
+
+			<dc:creator><![CDATA[{author}]]></dc:creator>
+			<category><![CDATA[{category}]]></category>
+			<guid isPermaLink="false">https://blog.logrocket.com/author/davidomotayo/</guid>
+
+			<description><![CDATA[{description}]]></description>
+			<content:encoded><![CDATA[
+<h1>Boost accessibility for high-contrast users with CSS - LogRocket Blog</h1>
+<div class="col-md-8 flex-first flex-md-unordered post-168174 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-accessibility tag-css" id="post-168174">
+<div class="mainheading">
+
+<div class="row post-top-meta hidden-md-down">
+<div class="col-md-2 col-xs-12">
+<a href="https://blog.logrocket.com/author/davidomotayo/">
+<img alt="alt" src="https://blog.logrocket.com/wp-content/uploads/2021/11/1629917310656.jpg?w=150&amp;h=150&amp;crop=1" class="avatar avatar-72 photo jetpack-lazy-image" height="72" width="72" data-lazy-src="https://blog.logrocket.com/wp-content/uploads/2021/11/1629917310656.jpg?w=150&amp;h=150&amp;crop=1&amp;is-pending-load=1" /><noscript><img data-lazy-fallback="1" alt="" src="https://blog.logrocket.com/wp-content/uploads/2021/11/1629917310656.jpg?w=150&amp;h=150&amp;crop=1" class="avatar avatar-72 photo" height="72" width="72"/></noscript> </a>
+</div>
+<div class="col-md-10 col-xs-12">
+<a class="text-capitalize link-dark" href="https://blog.logrocket.com/author/davidomotayo/">
+David Omotayo <span class="btn follow">Follow</span></a>
+<span class="author-description d-block">Frontend developer and indie game enthusiast.</span>
+</div>
+</div>
+<h1 class="posttitle">Boost accessibility for high-contrast users with CSS</h1>
+<p>
+<span class="post-date"><time class="post-date">
+April 26, 2023 </p></span>
+<span class="dot"/>
+<span class="readingtime">8 min read</span>
+<span class="wordcount">2351</span>
+<span class="logrocket_editor">107</span>
+</p>
+</div>
+<img width="730" height="487" src="https://blog.logrocket.com/wp-content/uploads/2023/04/improving-accessibility-high-contrast-users-css-nocdn.png" class="featured-image img-fluid wp-post-image jetpack-lazy-image" alt="Improving Accessibility High-Contrast Users CSS"             data-lazy- data-lazy- data-lazy-src="https://blog.logrocket.com/wp-content/uploads/2023/04/improving-accessibility-high-contrast-users-css-nocdn.png?is-pending-load=1" /> <article class="article-post">
+<p>Compliance with <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> has enabled developers to better serve the needs of people with disabilities, including those who are visually impaired. However, WCAG does not fully consider how differences in visual impairment vary from one individual to the next.</p>
+<p>According to the <a href="https://webaim.org/projects/lowvisionsurvey2/#at">WebAim survey</a>, approximately 30% of internet users with low vision utilize high-contrast mode to enhance legibility and minimize visual clutter when visiting websites:</p>
+<p><img             class="aligncenter wp-image-168182 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/webaim-survey-results-low-vision-users.png" alt="WebAim Survey Results Low Vision Users" width="643" height="461" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/webaim-survey-results-low-vision-users.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168182 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/webaim-survey-results-low-vision-users.png" alt="WebAim Survey Results Low Vision Users" width="643" height="461"  /></noscript></p>
+<p>Yet, despite its high use rate, high-contrast mode receives less consideration from developers compared to other web accessibility features such as dark mode, keyboard navigation, reduced motion, and screen reader compatibility. So, why hasn’t high-contrast mode become more widely accepted among developers?</p>
+<p>Its low adoption rate may be partly due to an assumption that implementing accessibility features for high-contrast users requires significant changes to a website’s style, leading to additional work. However, this assumption is not always accurate. By following some key practices, developers can avoid negatively impacting user experience for high-contrast users.</p>
+<p>In this article, we will introduce essential practices for improving accessibility and enhancing UX for high-contrast users with CSS. We’ll also explore how to diagnose website accessibility issues.</p>
+<p><em>Jump ahead:</em></p>
+<ul>
+<li><a href="#what-is-windows-high-contrast-mode">What is Windows high-contrast mode?</a></li>
+<li><a href="#high-contrast-mode-best-practices">High-contrast mode best practices</a>
+<ul >
+<li><a href="#using-semantic-html">Using semantic HTML</a></li>
+<li><a href="#leverging-transparent-value">Leveraging the <code>transparent</code> value</a></li>
+<li><a href="#handling-scrollbar-styling">Handling scrollbar styling</a></li>
+<li><a href="#using-forced-colors-css-media-query">Using the <code>forced-colors</code> CSS media query</a></li>
+<li><a href="#using-forced-adjust-colors-css-property">Using the <code>forced-adjust-colors</code> CSS property</a>
+<ul >
+<li><a href="#browser-compatibility">Browser compatibility</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#diagnosing-website-accessibility-issues">Diagnosing website accessibility issues</a></li>
+</ul>
+<h2 id="what-is-windows-high-contrast-mode">What is Windows high-contrast mode?</h2>
+<p>There are two ways to implement high-contrast mode in a website: manual implementation and <a href="https://support.microsoft.com/en-us/windows/turn-high-contrast-mode-on-or-off-in-windows-909e9d89-a0f9-a3a9-b993-7a6dcee85025">Windows high-contrast mode</a>.</p>
+<p>Manual implementation requires keeping the feature in mind and building it into the website from the start. This approach requires more effort and attention to detail. Using Windows high-contrast mode is a more straightforward process that involves leveraging the feature in the Windows operating system to override any styles set by the website and applying its custom color scheme.</p>
+<p>Contrast mode is an accessibility feature in the Windows OS that is designed to make it easier for visually impaired users to see the screen. When turned on, contrast mode changes the look of websites and Windows applications by replacing the colors, backgrounds, and brightness of elements on the screen to provide a higher level of contrast. Contrast mode also reduces a website’s visual noise by removing certain elements. This feature makes it easier for visually impaired users to differentiate between elements and read text.</p>
+<p>Using Windows high-contrast mode is the simplest way to implement high-contrast mode on your website, as many users with photosensitivity likely already have the feature enabled in their Windows OS. However, developers need to be aware of how the feature will affect the appearance of a website and make necessary changes to ensure that the site remains accessible and usable for all users.</p>
+<p>You can activate Windows high-contrast mode on your computer by going to Settings, clicking <strong>Accessibility</strong>, and then selecting <strong>Contrast themes</strong>. You will then be able to choose from four available themes. In the example below, we selected the <strong>Night sky</strong> theme:</p>
+<p><img             class="aligncenter wp-image-168183 size-large jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/activating-windows-high-contrast-mode.png?w=720" alt="Activating Windows High-Contrast Mode" width="720" height="381" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/activating-windows-high-contrast-mode.png?w=720&amp;is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168183 size-large" src="http://blog.logrocket.com/wp-content/uploads/2023/04/activating-windows-high-contrast-mode.png?w=720" alt="Activating Windows High-Contrast Mode" width="720" height="381"  /></noscript></p>
+<p>Once activated, Windows high-contrast mode not only changes the contrast of the operating system, it also affects everything displayed on the screen, including browsers and websites. So it’s very important to ensure your website is compatible with this mode.</p>
+<p>Here’s an example of how the LogRocket Blog homepage appears with high-contrast mode turned on:</p>
+<p><img             class="aligncenter wp-image-168184 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/logrocket-homepage-high-contrast-mode.png" alt="LogRocket Homepage High-Contrast Mode" width="720" height="345" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/logrocket-homepage-high-contrast-mode.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168184 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/logrocket-homepage-high-contrast-mode.png" alt="LogRocket Homepage High-Contrast Mode" width="720" height="345"  /></noscript></p>
+<p>And here’s how it looks with high-contrast mode turned off:</p>
+<p><img             class="aligncenter wp-image-168185 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/logrocket-homepage-high-contrast-mode-off.png" alt="LogRocket Homepage High-Contrast Mode Off" width="720" height="345" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/logrocket-homepage-high-contrast-mode-off.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168185 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/logrocket-homepage-high-contrast-mode-off.png" alt="LogRocket Homepage High-Contrast Mode Off" width="720" height="345"  /></noscript></p>
+<p>It’s evident that the LogRocket Blog’s webpage design follows the high-contrast approach. The only variations between both modes are the background of the “START MONITORING FOR FREE” button at the top, right of the page and the bookmark icons on the article cards. These differences exist because the browser automatically selects values for some properties, such as background color and SVG stroke, from the system colors set for high-contrast mode and applies them to the page elements, overriding the normal style cascading process.</p>
+<p>Here’s a list of properties with values that are forced in high-contrast mode:</p>
+<ul>
+<li><code>color</code></li>
+<li><code>Background-color</code></li>
+<li><code>Background-image</code></li>
+<li><code>text-decoration-color</code></li>
+<li><code>text-emphasis-color</code></li>
+<li><code>border-color</code></li>
+<li><code>outline-color</code></li>
+<li><code>column-rule-color</code></li>
+<li><code>-webkit-tap-highlight-color</code></li>
+<li>SVG <code>fill</code> attribute</li>
+<li>SVG <code>stroke</code> attribute</li>
+</ul>
+<p>So, in our example, the <code>background-color</code> value for the button element on the page is forcibly set to <code>none</code>, and the stroke attribute of the bookmark icon is removed due to the high-contrast mode enforcement. Some CSS properties are compatible with high-contrast mode by default but may exhibit unexpected behavior. We will discuss these properties in further detail later in this article.</p>
+<h2 id="high-contrast-mode-best-practices">High-contrast mode best practices</h2>
+<p>When high-contrast mode is activated, the browser prioritizes legibility over aesthetics. This is why most of the properties for beautifying a webpage, such as <code>background-color</code> and <code>color</code>, are forced to adopt the system color scheme.</p><div class="code-block code-block-57" >
+<hr/>
+<div >
+<a href="https://lp.logrocket.com/blg/learn-more" class="embed-link">
+<div class="tweet-embed-container">
+<div class="single-tweet">
+<img src="https://blog.logrocket.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-05-at-3.19.07-PM.png" data-lazy-src="https://blog.logrocket.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-05-at-3.19.07-PM.png?is-pending-load=1"  class=" jetpack-lazy-image"/><noscript><img data-lazy-fallback="1" src="https://blog.logrocket.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-05-at-3.19.07-PM.png"/></noscript>
+</div>
+<div class="embed-tweet-right">
+<h2>Over 200k developers use LogRocket to create better digital experiences</h2>
+<div class="embed-btn"><img src="https://blog.logrocket.com/wp-content/uploads/2022/08/rocket-button-icon.png" data-lazy-src="https://blog.logrocket.com/wp-content/uploads/2022/08/rocket-button-icon.png?is-pending-load=1"  class=" jetpack-lazy-image"/><noscript><img data-lazy-fallback="1" src="https://blog.logrocket.com/wp-content/uploads/2022/08/rocket-button-icon.png"/></noscript>Learn more →</div>
+</div>
+</div></a></div>
+<hr/>
+<style>
+@media all and (max-width: 800px){
+    .tweet-embed-container {flex-direction: column !important;}
+    .single-tweet, .embed-tweet-right {width: 100% !important;}
+}
+.embed-link {text-decoration: none;}
+.embed-link:hover {text-decoration: none;}
+.tweet-embed-container {border-radius: 20px;
+  background: radial-gradient(79.69% 102.24% at 100% 100.11%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), radial-gradient(89.7% 115.09% at 3.43% 2.75%, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0)), #764ABC;
+background-blend-mode: overlay, overlay, normal;
+  box-shadow: 0 4px 0 #d5d5d5;
+  width: auto;
+  padding: 20px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 auto;
+  gap: 3%;
+}
+.single-tweet {width: 50%;}
+.single-tweet img {max-width: 100%;height: auto; border-radius:7px;}
+.embed-tweet-right {width: 46%;}
+.embed-tweet-right h2 {font-family: 'Avenir';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+color: #FFFFFF;}
+.embed-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  width: 170px;
+  gap: 5px;
+  align-items: center;
+  padding: 0px 10px;
+  font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 16px;
+color: #764ABC;
+height: 48px;
+/* White */
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
+border-radius: 80px;
+  border: none;
+}</style></div>
+<p>Let’s take a look at fallback options to fix elements with unexpected behaviors in high-contrast mode.</p>
+<h3 id="using-semantic-html">Using semantic HTML</h3>
+<p>The significance of HTML semantics in web accessibility cannot be overstated. It is as important in forced mode as it is for screen readers. This is because the browser selects system colors for elements based on the semantics of the elements, rather than their appearance on the webpage or any added ARIA roles.</p>
+<p><em><strong>N.B.,</strong> contrast mode is also known as forced mode; we’ll use this term for the remainder of this article</em></p>
+<p>In the past, developers would “trick” screen readers by camouflaging <code>div</code> elements with ARIA roles. However, this approach is not feasible in forced mode since Windows doesn’t determine an element’s style based on its role on the webpage.</p>
+<p>In the below example there are three elements: a <code>div</code> with a button role, a semantic <code>button</code> element, and an anchor tag with identical styles applied:</p>
+<pre class="language-html hljs">//html
+&lt;div>
+      &lt;button class="btn">
+        button
+      &lt;/button>
+      &lt;div role="button" class="btn" tabindex="0">
+        div
+      &lt;/div>
+      &lt;a href="#" class="btn">
+        link
+      &lt;/a>
+&lt;/div>
+</pre>
+<pre class="language-css hljs">//css
+.btn{
+    padding: 0.5em 1em;
+    border: 2px solid purple;
+    background-color: purple;
+    border-radius: 0.5em;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+}
+</pre>
+<p>Here’s how the elements appear in default mode:</p>
+<p><img             class="aligncenter wp-image-168186 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/elements-default-mode.png" alt="Elements Default Mode" width="557" height="373" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/elements-default-mode.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168186 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/elements-default-mode.png" alt="Elements Default Mode" width="557" height="373"  /></noscript></p>
+<p>And here’s how they appear in forced mode:</p>
+<p><img             class="aligncenter wp-image-168187 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/elements-forced-mode.png" alt="Elements Forced Mode" width="583" height="384" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/elements-forced-mode.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168187 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/elements-forced-mode.png" alt="Elements Forced Mode" width="583" height="384"  /></noscript></p>
+<p>As you can see, each element has the same color in default mode, but this isn’t the case in forced mode. This highlights the importance of always using semantic HTML to prevent compromising or confusing the user’s experience.</p>
+<h3 id="leverging-transparent-value">Leveraging the <code>transparent</code> value</h3>
+<p>In some instances, an element’s border, outline, or <code>text-decoration</code> may clash with your design system, and you may need to set the value of the conflicting property to <code>none</code>. This approach could work in default mode but can significantly impede the user experience in forced mode.</p>
+<p>Since forced mode overrides the background color of every element on the webpage, users may find it challenging to distinguish between components, such as buttons and links, and regular text on the page.</p>
+<p>To better understand, let’s look at this example of a button element with <code>border</code> value set to <code>none</code>:</p>
+<pre class="language-html hljs">//html
+&lt;button class="btn">
+   Button
+&lt;/button>
+</pre>
+<pre class="language-css hljs">//css
+.btn{
+    padding: 0.5em 1em;
+    border: none;
+    background-color: purple;
+    border-radius: 0.5em;
+    font-size: 1.5rem;
+    color: white;
+}
+</pre>
+<p><img             class="aligncenter wp-image-168194 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/button-default-mode.png" alt="Button Default Mode" width="397" height="234" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-default-mode.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168194 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-default-mode.png" alt="Button Default Mode" width="397" height="234"  /></noscript></p>
+<p>As you can see, the <code>button</code> looks good in the default mode. However, in forced mode, the background color, which provides depth to the element, is overwritten. As a result, the <code>button</code> could easily be mistaken for normal text:</p>
+<p><img             class="aligncenter wp-image-168188 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/button-default-mode-looks-like-text.png" alt="Button Forced Mode Looks Like Text" width="481" height="286" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-default-mode-looks-like-text.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168188 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-default-mode-looks-like-text.png" alt="Button Forced Mode Looks Like Text" width="481" height="286"  /></noscript></p>
+<p>The same issue applies to anchor tags and the CSS <code>text-decoration</code> property. When the <code>text-decoration</code> property is set to <code>none</code>, it becomes difficult for users to distinguish between anchor tags and regular text in forced mode:</p>
+<pre class="language-html hljs">//html
+ &lt;a href="#" class="link"> 
+    Home 
+ &lt;/a>
+ &lt;a href="#" class="link">
+    About
+ &lt;/a>
+ &lt;a href="#" class="link">
+    Contact
+ &lt;/a>
+</pre>
+<pre class="language-css hljs">//css
+.link{
+    color: purple;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+</pre>
+<p><img             class="aligncenter wp-image-168197 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/anchor-tags-forced-mode-look-like-text.png" alt="Anchor Tags Forced Mode Look Like Text" width="588" height="392" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/anchor-tags-forced-mode-look-like-text.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168197 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/anchor-tags-forced-mode-look-like-text.png" alt="Anchor Tags Forced Mode Look Like Text" width="588" height="392"  /></noscript></p>
+<p>We can address this issue by setting the anchor tag’s <code>text-decoration-color</code> property and the button’s <code>border</code> property to a value of <code>transparent</code>:</p>
+<pre class="language-css hljs">/*css*/
+.link{
+    color: purple;
+    font-size: 1.5rem;
+    text-decoration: transparent;
+}
+
+.btn{
+    padding: 0.5em 1em;
+    border: 2px solid transparent;
+    background-color: purple;
+    border-radius: 0.5em;
+    font-size: 1.5rem;
+    color: white;
+}
+</pre>
+<p><img             class="aligncenter wp-image-168198 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/anchor-tags-forced-mode-transparent-border.png" alt="Anchor Tags Forced Mode Transparent Border" width="550" height="328" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/anchor-tags-forced-mode-transparent-border.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168198 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/anchor-tags-forced-mode-transparent-border.png" alt="Anchor Tags Forced Mode Transparent Border" width="550" height="328"  /></noscript></p>
+<p><img             class="aligncenter wp-image-168200 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/button-forced-mode-transparent-border.png" alt="Button Forced Mode Transparent Border" width="577" height="358" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-forced-mode-transparent-border.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168200 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-forced-mode-transparent-border.png" alt="Button Forced Mode Transparent Border" width="577" height="358"  /></noscript></p>
+<p>Forced mode overwrites styling, but when it detects a <code>border</code> or <code>outline</code> property with a <code>transparent</code> value, it adds a visible <code>border</code> to the element. This makes transparency visible in forced mode.</p>
+<p>You can employ the same approach to the <code>outline</code> property to produce highlights for an element’s focus state:</p>
+<pre class="language-css hljs">.btn:hover{
+    outline: 2px solid transparent;
+}
+</pre>
+<p><img             class="aligncenter wp-image-168201 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/button-forced-mode-transparent-outline.gif" alt="Button Forced Mode Transparent Outline" width="501" height="322" data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-forced-mode-transparent-outline.gif?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168201 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/button-forced-mode-transparent-outline.gif" alt="Button Forced Mode Transparent Outline" width="501" height="322"/></noscript></p>
+<h3 id="handling-scrollbar-styling">Handling scrollbar styling</h3>
+<p>Scrollbars are not usually a cause for concern with regard to forced mode, because they are rarely styled. In fact, it’s worth noting that styling a webpage’s scrollbar is not recommended if accessibility is a top priority. Even if you take steps to mitigate the issue, the end result may be suboptimal. If you decide to style your website’s scrollbar, despite this warning, there are a few important points you should at least keep in mind.</p>
+<p>Styling a scrollbar typically involves adding a background color and possibly a box shadow. Unfortunately, these properties can cause the scrollbar to become invisible when viewed in forced, or high-contrast, mode.</p>
+<p>To address this issue, you could use the <code>border</code> property with a <code>transparent</code> value as demonstrated previously. However, this may create another problem — the scrollbar thumb will have a hollow appearance which can confuse users. As a result, it’s important to carefully consider the implications of styling the scrollbar before making any changes.</p>
+<p>The below GIF illustrates how challenging it can be to keep track of the scrollbar thumb:</p>
+<p><img             class="aligncenter wp-image-168202 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/scrollbar-styling-forced-mode.gif" alt="Scrollbar Styling Forced Mode" width="720" height="515" data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/scrollbar-styling-forced-mode.gif?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168202 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/scrollbar-styling-forced-mode.gif" alt="Scrollbar Styling Forced Mode" width="720" height="515"/></noscript></p>
+<p>One solution is to increase the width of the track, which can create an illusion of depth on the thumb. However, this approach can negatively impact the aesthetics of the webpage in default mode. For this reason, it’s generally recommended to avoid styling the scrollbar altogether if accessibility is a top priority.</p>
+<p>It’s also worth noting that the limitations of scrollbar customization vary between browsers. While Chromium-based browsers may have more flexibility, recent updates to Firefox have restricted the ways in which scrollbars can be customized.</p>
+<p>In Firefox, we can only manipulate the width and color of the scrollbar using the <code>scrollbar-color</code> and <code>scrollbar-width</code> properties. Furthermore, even if the scrollbar is highly customized in default mode, Firefox will automatically adjust it to match the system color in forced mode, which is an important consideration for accessibility.</p>
+<h3 id="using-forced-colors-css-media-query">Using the <code>forced-colors</code> CSS media query</h3>
+<p><code>forced-colors</code> is a CSS media query feature that is used to detect if the browser is in forced mode. It has two possible values: <code>active</code> and <code>none</code>. When <code>active</code> is used, the styles within the media query are only applied when the browser is in forced mode. Conversely, when the <code>none</code> value is used, the styles within the media query are only applied when the browser is not in forced mode.</p>
+<p>Developers can use this media feature to apply high-contrast friendly styles for forced mode, as shown in this example:</p>
+<pre class="language-css hljs">.button {
+    border: 0;
+    padding: 10px;
+    box-shadow: -2px -2px 5px gray, 2px 2px 5px gray;
+}
+
+@media (forced-colors: active) {
+    .button {
+        /* Use a border instead, since box-shadow is forced to 'none' in forced-colors mode */
+        border: 2px transparent solid;
+    }
+}
+</pre>
+<p>The code above checks for forced mode in the browser and applies a media query to add <code>transparent</code> borders to the <code>button</code> element on the page.</p>
+<h3 id="using-forced-adjust-colors-css-property">Using the <code>forced-adjust-colors</code> CSS property</h3>
+<p><code>forced-adjust-colors</code> is a CSS property that is used to prevent forced mode from overwriting the colors of an element or the entire webpage via the body selector. This property has two possible values:</p>
+<ul>
+<li><code>auto</code>: The default value; sets the color of the element or webpage to the color scheme specified by the operating system or browser</li>
+<li><code>none</code>: Allows the browser to disregard the color scheme of the system and instead use the style cascade</li>
+</ul>
+<p>The <code>forced-adjust-colors</code> property is often used with the <code>forced-colors</code> media query, like so:</p>
+<pre class="language-css hljs">@media screen and (forced-colors: active) {
+   .btn {
+        Forced-color-adjust: none;
+    }
+}
+</pre>
+<p>The <code>forced-adjust-colors</code> CSS property can also be applied to individual elements to achieve the same effect on that specific element:</p>
+<pre class="language-css hljs"> .btn {
+        ...
+      Forced-color-adjust: none;
+  }
+</pre>
+<p>This will force the browser to use the colors defined by the element’s style cascade, overriding the system colors set by the browser or OS:</p>
+<p><img             class="aligncenter wp-image-168203 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/css-forced-adjust-colors-elements.png" alt="CSS Forced-Adjust-Colors Elements" width="617" height="327" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/css-forced-adjust-colors-elements.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168203 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/css-forced-adjust-colors-elements.png" alt="CSS Forced-Adjust-Colors Elements" width="617" height="327"  /></noscript></p>
+<p>The <code>forced-adjust-colors</code> property might appear to be a solution for enhancing the visual appearance of a website in forced mode, but its use should be limited to making essential adjustments that improve the contrast and readability of the site’s content. It is not intended for creating designs that could potentially undermine the accessibility of the site.</p>
+<h4 id="browser-compatibility">Browser compatibility</h4>
+<p>The <code>forced-adjust-colors</code> CSS property is a recently introduced property and currently has limited support on modern browsers. This feature is only available on Chrome 89+ and Edge 79+ browsers, so it’s important to check the browser compatibility before using it in your code:</p>
+<p><img             class="aligncenter wp-image-168204 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/browser-compatibility-css-forced-adjust-colors.png" alt="Browser Compatibility CSS Forced-Adjust-Colors" width="491" height="255" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/browser-compatibility-css-forced-adjust-colors.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168204 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/browser-compatibility-css-forced-adjust-colors.png" alt="Browser Compatibility CSS Forced-Adjust-Colors" width="491" height="255"  /></noscript></p>
+<h2 id="diagnosing-website-accessibility-issues">Diagnosing website accessibility issues</h2>
+<p>Diagnosing a website for accessibility issues can be a challenging task, particularly for high-contrast mode, which requires frequent switching between default and forced mode. Fortunately, the browser’s developer toolset offers a range of tools to help test website accessibility.</p>
+<p>One such tool is the <a href="https://developer.chrome.com/docs/devtools/rendering/">Rendering tool</a> — a component of Chrome DevTools that allows developers to debug and diagnose problems with the rendering of webpages. The Rendering tool provides a range of features for inspecting and modifying the visual layout of webpages, including the ability to view and edit the box model, examine and modify the CSS styles applied to elements, and diagnose issues with rendering performance.</p>
+<p>To use the Rendering tool, open DevTools in your Chrome browser using <strong>Ctrl+Shift+I</strong> for a PC or <strong>Command+Shift+I</strong> for a Mac. Next, navigate to the <strong>Console</strong> drawer located below the DevTool pane and click the <strong>Rendering</strong> tab:</p>
+<p><img             class="aligncenter wp-image-168207 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/chrome-devtools-rendering-tool.png" alt="Chrome DevTools Rendering Tool" width="555" height="774" data-lazy- data-lazy- data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/chrome-devtools-rendering-tool.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168207 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/chrome-devtools-rendering-tool.png" alt="Chrome DevTools Rendering Tool" width="555" height="774"  /></noscript></p>
+<p>Here you can emulate various accessibility features directly within the browser:</p>
+<p><img             class="aligncenter wp-image-168208 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/emulate-accessibility-features-browser-chrome-devtools.gif" alt="Emulate Accessibility Features Browser Chrome DevTools" width="720" height="351" data-lazy-src="http://blog.logrocket.com/wp-content/uploads/2023/04/emulate-accessibility-features-browser-chrome-devtools.gif?is-pending-load=1" /><noscript><img data-lazy-fallback="1"              class="aligncenter wp-image-168208 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/emulate-accessibility-features-browser-chrome-devtools.gif" alt="Emulate Accessibility Features Browser Chrome DevTools" width="720" height="351"/></noscript></p>
+<h2 id="conclusion">Conclusion</h2>
+<p>There’s still a long way to go in terms of making the web accessible for everyone. In the meantime, it’s important that we all do our part by considering the needs of all users when designing or developing websites.</p>
+<p>By implementing a high-contrast mode in your website, you can help ensure that users of all abilities have an enjoyable and productive experience when they visit and interact with your site.</p><div class="code-block code-block-25" >
+<div class="blog-plug inline-plug css-plug"><h2>Is your frontend hogging your users' CPU?</h2>As web frontends get increasingly complex, resource-greedy features demand more and more from the browser. If you’re interested in monitoring and tracking client-side CPU usage, memory usage, and more for all of your users in production, <a target="_blank" href="https://lp.logrocket.com/blg/css-signup">try LogRocket</a>.<a class="signup" href="https://lp.logrocket.com/blg/css-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2019/12/cpu-memory-usage.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677" data-lazy-src="https://blog.logrocket.com/wp-content/uploads/2019/12/cpu-memory-usage.png?is-pending-load=1" /><noscript><img data-lazy-fallback="1" class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2019/12/cpu-memory-usage.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/css-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/css-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording everything that happens in your web app, mobile app, or website. Instead of guessing why problems happen, you can aggregate and report on key frontend performance metrics, replay user sessions along with application state, log network requests, and automatically surface all errors.</p><p>Modernize how you debug web and mobile apps — <a class="signup" href="https://lp.logrocket.com/blg/css-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
+</div>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-168174" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/boost-accessibility-high-contrast-users-css/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/boost-accessibility-high-contrast-users-css/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-168174" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/boost-accessibility-high-contrast-users-css/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-168174" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/boost-accessibility-high-contrast-users-css/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
+<div class="clearfix mb-0"/>
+</article>
+<div class="clearfix"/>
+
+<div class="row post-top-meta hidden-lg-up">
+<div class="col-md-2 col-xs-4">
+<img alt="alt" src="https://blog.logrocket.com/wp-content/uploads/2021/11/1629917310656.jpg?w=150&amp;h=150&amp;crop=1" class="avatar avatar-72 photo jetpack-lazy-image" height="72" width="72" data-lazy-src="https://blog.logrocket.com/wp-content/uploads/2021/11/1629917310656.jpg?w=150&amp;h=150&amp;crop=1&amp;is-pending-load=1" /><noscript><img data-lazy-fallback="1" alt="" src="https://blog.logrocket.com/wp-content/uploads/2021/11/1629917310656.jpg?w=150&amp;h=150&amp;crop=1" class="avatar avatar-72 photo" height="72" width="72"/></noscript> </div>
+<div class="col-md-10 col-xs-8">
+<a class="text-capitalize link-dark" href="https://blog.logrocket.com/author/davidomotayo/">
+David Omotayo <span class="btn follow">Follow</span></a>
+<span class="author-description d-block">Frontend developer and indie game enthusiast.</span>
+</div>
+</div>
+<div class="after-post-tags">
+<ul class="post-categories">
+<li><a href="https://blog.logrocket.com/category/uncategorized/" rel="category tag">Uncategorized</a></li></ul> <ul class="post-categories aretags">
+<li><a href="https://blog.logrocket.com/tag/accessibility/">#accessibility</a></li> <li><a href="https://blog.logrocket.com/tag/css/">#css</a></li> </ul>
+</div>
+<div class="row mb-5 prevnextlinks justify-content-center align-items-center">
+<div class="col-md-6 col-xs-12 rightborder pl-0"><div class="thepostlink">&amp;laquo; <a href="https://blog.logrocket.com/product-management/what-is-the-spotify-model-agile/" rel="prev">What is the Spotify model in agile?</a></div></div>
+<div class="col-md-6 col-xs-12 text-right pr-0"><div class="thepostlink"><a href="https://blog.logrocket.com/ux-design/creating-headless-design-system-figma/" rel="next">Creating a headless design system using Figma</a> &amp;raquo;</div></div>
+</div>
+</div>
+]]></content:encoded>
+
+			<wfw:commentRss>https://blog.logrocket.com/author/davidomotayo/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		</item>    
+
+	</channel>
+</rss>
