@@ -36,6 +36,8 @@
       <title>“Designing” a Career Ladder for Product Design - DoorDash Engineering Blog</title>
       <link>https://doordash.engineering/2019/09/03/designing-a-career-ladder-for-product-design/</link>
       
+      <guid></guid>
+      
       <dc:creator><![CDATA[$/{CREATOR}]]></dc:creator>
       <description>Example Description</description>
 
@@ -44,8 +46,8 @@
 		<div class="container">
 			<h1>“Designing” a Career Ladder for Product Design</h1>
 			<div class="meta clearfix">
-							<date><i class="fa fa-calendar-o" /> September 3, 2019</date>
-							<time><i class="fa fa-clock-o" /> 8 Minute Read</time>
+							<p><i class="fa fa-calendar-o" /> September 3, 2019</p>
+							<p><i class="fa fa-clock-o" /> 8 Minute Read</p>
 							<span class="ccc"><i class="fa fa-list" /> 
 								General							</span>
 														<span class="ccc"><a href="#" class="dot-irecommendthis" id="dot-irecommendthis-799" title="Recommend this"><span class="dot-irecommendthis-count">14</span> <span class="dot-irecommendthis-suffix"/></a></span>
