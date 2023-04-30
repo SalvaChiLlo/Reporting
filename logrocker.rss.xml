@@ -250,7 +250,7 @@ useEffect(() => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -300,7 +300,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="conclusion">Conclusion</h2>
 <p>Infinite scrolling is a powerful web design technique. It enhances the user experience by progressively loading content as users scroll down a page, thereby eliminating the need for pagination.</p>
 <p>In this article, we explored three different approaches for implementing infinite scrolling in React applications. Each technique has its own advantages and potential drawbacks, so it’s essential to choose the method that best suits your specific requirements and your users’ needs.</p>
@@ -918,7 +918,7 @@ For a pair of bits, here are the possible values of an XOR operation:</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -968,7 +968,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>For example, consider the integer <code>170</code>. Let’s say we want to shift three bits to the left. We can use the <code>&lt;&lt;</code> operator as follows:</p>
 <pre class="language-javascript hljs">// 170 => 00000000000000000000000010101010
 
@@ -1447,7 +1447,7 @@ flag &amp; LIST_UNIQUE
 <a href="https://lp.logrocket.com/blg/javascript-signup" class="signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2020/06/reproduce-javascript-errors.gif" alt="LogRocket Dashboard Free Trial Banner"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2020/06/reproduce-javascript-errors.gif" alt="LogRocket Dashboard Free Trial Banner"/></noscript></a>
 <p >LogRocket records console logs, page load times, stacktraces, slow network requests/responses with headers + bodies, browser metadata, and custom logs. Understanding the impact of your JavaScript code will never be easier!</p>
 <a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">Try it for free</a>.</div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-29 .fadeIn {
     opacity:1 !important;
@@ -1462,7 +1462,7 @@ flag &amp; LIST_UNIQUE
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -1894,8 +1894,8 @@ print([(w.text, w.pos_) for w in doc])
 ('$', 'SYM'), ('1', 'NUM'), ('billion', 'NUM'), ('.', 'PUNCT')]
 </pre>
 <p>The possible parts of speech are described in the following table and, per usual, they heavily depend on the language of the text:</p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}<br/>.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;<br/>  overflow:hidden;padding:10px 5px;word-break:normal;}<br/>.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;<br/>  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}<br/>.tg .tg-4r4g{background-color:#F7F9FA;border-color:inherit;color:#1B2733;text-align:left;text-decoration:underline;<br/>  vertical-align:top}<br/>.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}<br/></style>
+<meta type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}<br/>.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;<br/>  overflow:hidden;padding:10px 5px;word-break:normal;}<br/>.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;<br/>  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}<br/>.tg .tg-4r4g{background-color:#F7F9FA;border-color:inherit;color:#1B2733;text-align:left;text-decoration:underline;<br/>  vertical-align:top}<br/>.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}<br/></meta>
 <table class="tg">
 <thead>
 <tr>
@@ -2062,7 +2062,7 @@ print(nlp.get_pipe("ner").labels)
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -2112,7 +2112,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The quality of the model depends on the size of the dataset used to train it. Pre-trained models are good for most cases but, of course, for specific domains of application, you may think about <a href="https://spacy.io/usage/training">training your own model</a>. I hope you enjoyed this article. Happy coding!</p><div class="code-block code-block-4" >
 <div class="blog-plug base-cta"><h2>Cut through the noise of traditional error reporting with <a class="signup" href="https://lp.logrocket.com/blg/signup" target="_blank" rel="noopener noreferrer">LogRocket</a></h2>
 <a href="https://lp.logrocket.com/blg/signup" class="signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://cdn.sanity.io/images/mr2nzgx7/production/98f0057ddf97aa70213cfc8612ca112dfa09d2eb-482x256.svg?w=482&amp;h=256&amp;auto=format" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://cdn.sanity.io/images/mr2nzgx7/production/98f0057ddf97aa70213cfc8612ca112dfa09d2eb-482x256.svg?w=482&amp;h=256&amp;auto=format" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a>
@@ -2310,7 +2310,7 @@ Hello, world!
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -2360,7 +2360,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="class-decorators">Class decorators</h3>
 <p>When you attach a function to a class as a decorator, you’ll receive the class constructor as the first parameter:</p>
 <pre class="language-typescript hljs">type ClassDecorator = (value: Function, context: {
@@ -2964,7 +2964,7 @@ function App() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -3014,7 +3014,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Let’s get started by installing the new library as follows on the same React project we’ve used before:</p>
 <pre class="language-bash hljs">npm install react-form-stepper
 # --- or ---
@@ -3443,7 +3443,7 @@ April 26, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -3493,7 +3493,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Let’s take a look at fallback options to fix elements with unexpected behaviors in high-contrast mode.</p>
 <h3 id="using-semantic-html">Using semantic HTML</h3>
 <p>The significance of HTML semantics in web accessibility cannot be overstated. It is as important in forced mode as it is for screen readers. This is because the browser selects system colors for elements based on the semantics of the elements, rather than their appearance on the webpage or any added ARIA roles.</p>
@@ -3848,7 +3848,7 @@ export interface News {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -3898,7 +3898,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="creating-home-screen">Creating a home screen</h3>
 <p>Next, we’ll create a home screen that will display a list of news items using the <code>&lt;FlatList /></code> component:</p>
 <pre class="language-typescript hljs">// packages/app/features/home/screen.tsx
@@ -4369,7 +4369,7 @@ Text(vehicle.rawValue.capitalized)
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -4419,7 +4419,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>To change the styling of the Picker, we’ll have to override the appearance of the <code>UISegmentedControl</code>. We can add an initializer to <code>StyledPicker</code> like the following:</p>
 <pre class="language-swift hljs">//swift
 init() {
@@ -5743,7 +5743,7 @@ content: [
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -5793,7 +5793,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="avatar-component"><code>avatar</code> component</h3>
 <p>Here we’ll create the avatar for each user:</p>
 <pre class="language-javascript hljs">// ui/components/avatar.js
@@ -7325,7 +7325,7 @@ const [selectedProduct, setSelectedProduct] = useState(null);</pre>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -7375,7 +7375,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>First, we import the <code>Button</code> and <code>Dialog</code> components from PrimeReact:</p>
 <pre class="language-javascript hljs">import { Button } from "primereact/button";
 import { Dialog } from "primereact/dialog";</pre>
@@ -7575,7 +7575,7 @@ April 3, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -7625,7 +7625,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>We will explore three libraries you can use for this approach — Vue Grid Layout, Vue Grid Responsive, and Vue Layout System.</p>
 <h3 id="vue-grid-layout">Vue Grid Layout</h3>
 <p>One of the best options in this group is the <a href="https://jbaysolutions.github.io/vue-grid-layout/">Vue Grid Layout library</a>. It’s pretty flexible and offers the following features:</p>
@@ -7964,7 +7964,7 @@ export default {
 <p>We also discussed how data tables differ from data grids. Since developers often incorrectly use both terms interchangeably, this distinction is important to understand when you are searching for an appropriate layout library.</p>
 <p>Now you’re ready to start building layouts with Vue.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -7979,7 +7979,7 @@ export default {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -8213,7 +8213,7 @@ April 13, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -8263,7 +8263,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="creating-cli-typescript">Creating a CLI with TypeScript</h2>
 <p>In this section, we will begin building a CLI using TypeScript and Commander.js. It will look as follows:</p>
 <p><img  class="aligncenter jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2022/10/screenshot-cli.png" alt="Screenshot of the CLI" width="730" height="333"  /><noscript><img    class="aligncenter" src="https://blog.logrocket.com/wp-content/uploads/2022/10/screenshot-cli.png" alt="Screenshot of the CLI" width="730" height="333"/></noscript></p>
@@ -9171,7 +9171,7 @@ const dotenv = require('dotenv')
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -9221,7 +9221,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Next, access the variables from <code>process.env</code> and pass them to their respective connection properties:</p>
 <pre class="language-javascript hljs">const db = mysql.createConnection({
     host: process.env.DATABASE_HOST,
@@ -9589,7 +9589,7 @@ export default function App() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -9639,7 +9639,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The <code>ToggleButton</code> component also accepts a <code>children</code> prop, which is used to render the content of the button, and any other additional props are spread onto the <code>button</code> element using <code>mergeProps</code> to ensure that they’re properly merged with the <code>buttonProps</code> returned by the hook.</p>
 <p>Finally, we’re using this <code>ToggleButton</code> component in the <code>App</code> component, where we’re managing the state of the button using the <code>useState</code> Hook.</p>
 <h2 id="accessibility-considerations-ui-library">Accessibility considerations for a UI library</h2>
@@ -10213,7 +10213,7 @@ const styles = StyleSheet.create({
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -10263,7 +10263,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>You can choose your own location or use one listed by using the iOS Simulator menu, which lets you handle permissions when requesting a user’s location on iOS. It’s possible to spoof a location and create a virtual one.</p>
 <p>See the screenshots below for an example of how to do this. With the help of Google Maps or a search engine, you can find the longitude and latitude of any location on earth:</p>
 <p><img             class="aligncenter wp-image-168193 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/find-latitude-longitude-google.jpeg" alt="Find Latitude Longitude Google" width="730" height="539"    /><noscript><img               class="aligncenter wp-image-168193 size-full" src="http://blog.logrocket.com/wp-content/uploads/2023/04/find-latitude-longitude-google.jpeg" alt="Find Latitude Longitude Google" width="730" height="539"  /></noscript></p>
@@ -10469,7 +10469,7 @@ export default App;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -10519,7 +10519,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>React Native Calendars exposes several props to attach callbacks for these crucial user actions. Check out the following sample callback implementations:</p>
 <pre class="language-javascript hljs">&lt;Calendar
   onDayPress={(day) => console.log('onDayPress', day) }
@@ -11297,7 +11297,7 @@ Here’s how your markup should look:</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -11347,7 +11347,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The transition consists of two parts:</p>
 <ul>
 <li><code>leave</code> <code>()</code> animation: Takes place when leaving the current page</li>
@@ -11646,7 +11646,7 @@ barba.init({
 <p><a href="https://lp.logrocket.com/blg/javascript-signup">LogRocket</a> is a frontend application monitoring solution that lets you replay JavaScript errors as if they happened in your own browser so you can react to bugs more effectively. </p><a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a>
 <a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> works perfectly with any app, regardless of framework, and has plugins to log additional context from Redux, Vuex, and @ngrx/store. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.
 </p><p>Build confidently — <a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-30 .fadeIn {
     opacity:1 !important;
@@ -11661,7 +11661,7 @@ barba.init({
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -11827,7 +11827,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -11877,7 +11877,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Setting the <code>-webkit-appearance</code> property to <code>none;</code> on the container element only removes the track and not the thumb:</p>
 <p><img             class="aligncenter size-full wp-image-166883 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/img5-Chrome-before-after-appearance-property.png" alt="Chrome Range Input Type Before And After Appearance Property Is Set To None" width="730" height="157"    /><noscript><img               class="aligncenter size-full wp-image-166883" src="https://blog.logrocket.com/wp-content/uploads/2023/04/img5-Chrome-before-after-appearance-property.png" alt="Chrome Range Input Type Before And After Appearance Property Is Set To None" width="730" height="157"  /></noscript></p>
 <p>The above is what it looks like in Chrome. The other WebKit-based browsers will also remove the track bar only.</p>
@@ -12333,7 +12333,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -12383,7 +12383,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="using-colrv1-color-fonts-dark-mode-typography">Using COLRv1 color fonts for dark mode typography</h2>
 <p>Implementing color fonts for dark mode is effortless, as the process is similar to that of setting up regular elements. The only distinction is the utilization of color font CSS properties. Here is a brief CSS code snippet to provide a clearer illustration:</p>
 <pre class="language-css hljs">@font-palette-values --custom-palette {
@@ -13065,7 +13065,7 @@ April 4, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13115,7 +13115,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>We define this function in the parent component:</p>
 <pre>resetThenSet = (id, key) => {
   const temp = [...this.state[key]];
@@ -13498,7 +13498,7 @@ April 4, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13548,7 +13548,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>To run the project visualization, we run the following command:</p>
 <pre class="language-javascript hljs">nx graph
 </pre>
@@ -13691,7 +13691,7 @@ April 27, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13741,7 +13741,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3>GraphQL Voyager demo</h3>
 <p>GraphQL Voyager works by parsing a GraphQL schema and generating a visual representation of its types and fields.</p>
 <p>The tool uses the GraphQL introspection query to obtain the schema, making it compatible with any GraphQL server that supports this query. Once the schema is obtained, GraphQL Voyager generates the interactive graph that visualizes the schema.</p>
@@ -13870,7 +13870,7 @@ border-radius: 80px;
 <p>No matter which tool you choose, it’s important to remember that data visualization is a crucial part of working with GraphQL. By using a high-quality data visualizer, you can gain deeper insights into your data, identify potential issues more easily, and streamline your development process.</p>
 <p>Don’t be afraid to try out different options and find the one that works best for you!</p><div class="code-block code-block-24" >
 <div class="blog-plug inline-plug graphql-plug"><h2>Monitor failed and slow GraphQL requests in production</h2>While GraphQL has some features for debugging requests and responses, making sure GraphQL reliably serves resources to your production app is where things get tougher. If you’re interested in ensuring network requests to the backend or third party services are successful, <a href="https://lp.logrocket.com/blg/graphql-signup" target="_blank">try LogRocket</a>.<a class="signup" href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer"><img src="https://files.readme.io/69aa835-Image_2019-11-09_at_1.28.05_PM.png"   class=" jetpack-lazy-image"/><noscript><img  src="https://files.readme.io/69aa835-Image_2019-11-09_at_1.28.05_PM.png"/></noscript><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your site. Instead of guessing why problems happen, you can aggregate and report on problematic GraphQL requests to quickly understand the root cause. In addition, you can track Apollo client state and inspect GraphQL queries' key-value pairs.</p>LogRocket instruments your app to record baseline performance timings such as page load time, time to first byte, slow network requests, and also logs Redux, NgRx, and Vuex actions/state. <a class="signup" href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-25 .fadeIn {
     opacity:1 !important;
@@ -13885,7 +13885,7 @@ border-radius: 80px;
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -14060,7 +14060,7 @@ April 5, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -14110,7 +14110,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <ul>
 <li>Resize images: This extension lets you set a specified size that can be used to resize images uploaded to the Firebase storage. It stores both the original and resized images in the same storage bucket</li>
 <li>Export collections to BigQuery: You can export specified Firestore collections to store in <a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener">BigQuery</a>, a cloud warehouse that allows you to query your database really fast. The process of exporting is incremental, so your Firestore and BigQuery are always in sync</li>
@@ -14471,7 +14471,7 @@ brew install sqld-beta
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -14521,7 +14521,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Let’s try to create the database and insert some data using one of those drivers. For this example, we’ll choose JavaScript, so the first step is to create a Node.js project and install the libSQL client:</p>
 <pre class="language-bash hljs">$ mkdir demo
 $ cd demo
@@ -14938,7 +14938,7 @@ April 25, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -14988,7 +14988,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>It also supports immutable data structures that let you define data that cannot be changed after it has been created. This makes it easier to reason about code and helps to prevent bugs.</p>
 <p>All data types in ClojureScript are checked for validity before the code is executed. This helps to prevent bugs and create maintainable code.</p>
 <p>Finally, ClojureScript is designed to be interoperable with other languages. Internally, it compiles down to JavaScript, so it can be integrated with React and React Native easily.</p>
@@ -15697,7 +15697,7 @@ export default createGroupChannelCreateFragment;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -15747,7 +15747,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>You also need to create an <code>Operator</code> user from your Sendbird dashboard and replace the <code>userID</code> with <code>THIS_IS_DEVELOPER_OR_TECH_SUPPORT_USER_ID</code> in the code above:</p>
 <p><img             class="aligncenter wp-image-167865 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/create-operator-user-sendbird-dashboard.png" alt="Create Operator User Sendbird Dashboard" width="730" height="472"    /><noscript><img               class="aligncenter wp-image-167865 size-full" src="https://blog.logrocket.com/wp-content/uploads/2023/04/create-operator-user-sendbird-dashboard.png" alt="Create Operator User Sendbird Dashboard" width="730" height="472"  /></noscript></p>
 <p>Now, we have just one final screen remaining, <code>GroupChannelScreen</code>. Let’s create it; inside the <code>screens</code> folder, create a new file called <code>GroupChannelScreen.tsx</code> and add the following code inside:</p>
@@ -15938,7 +15938,7 @@ April 5, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -15988,7 +15988,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>VS Code is a full-featured integrated development environment (IDE) with full built-in support for debugging. It includes a debugger that supports various programming languages and frameworks with features like breakpoints, watch expressions, and call stacks.</p>
 <h3 id="popularity">Popularity</h3>
 <p>According to the <a href="https://survey.stackoverflow.co/2022/#worked-with-vs-want-to-work-with-new-collab-tools-worked-want">2022 Stack Overflow Developer Survey</a>, VS Code is the most popular development environment for professional developers. Over 40 percent of respondents use it regularly, <a href="https://github.com/microsoft/vscode">with over 143,000 stars on GitHub</a> at the time of writing.</p>
@@ -16384,7 +16384,7 @@ export default {
 <h2>Conclusion</h2>
 <p>In this article, we’ve explored how to dynamically style Vue.js applications to help us create unique user experiences. Editing the appearance and behavior of our applications goes a long way toward improving the usability of our applications.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -16399,7 +16399,7 @@ export default {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -16553,7 +16553,7 @@ April 11, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -16603,7 +16603,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Next, you’ll be asked to select a framework for your Vite project. Vite provides a variety of frameworks that may be used for an application: React, Vue.js, Lit, Preact, Vanilla JavaScript, and Svelte. For this demo, we’ll select <strong>React</strong>.</p>
 <p>Lastly, you’ll be prompted to choose a variant for your application. For this demo, we’re building a TypeScript app with Vite, so we’ll select <strong>TypeScript</strong>.</p>
 <p>Here are our selections for the Vite project prompts:</p>
@@ -17054,7 +17054,7 @@ import (
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17104,7 +17104,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The source code of the Go blockchain is available as a <a href="https://gist.github.com/LordGhostX/bb92b907731ee8ebe465a28c5c431cb4">GitHub Gist</a>, and you can play with it in your browser on the <a href="https://play.golang.com/">Go Playground</a>. I can’t wait to see the amazing things you build with Go, as it is a good fit for applications where efficiency and performance are a top priority. Happy coding!</p><div class="code-block code-block-26" >
 <div class="blog-plug inline-plug blockchain-plug"><h2>Join organizations like Bitso and Coinsquare who use <a href="https://lp.logrocket.com/blg/web3-signup">LogRocket</a> to proactively monitor their Web3 apps
 </h2>Client-side issues that impact users’ ability to activate and transact in your apps can drastically affect your bottom line. If you’re interested in monitoring UX issues, automatically surfacing JavaScript errors, and tracking slow network requests and component load time, <a target="_blank" href="https://lp.logrocket.com/blg/web3-signup">try LogRocket</a>.<a class="signup" href="https://lp.logrocket.com/blg/web3-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2019/12/cpu-memory-usage.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2019/12/cpu-memory-usage.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/web3-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/web3-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording everything that happens in your web app or site. Instead of guessing why problems happen, you can aggregate and report on key frontend performance metrics, replay user sessions along with application state, log network requests, and automatically surface all errors.</p><p>Modernize how you debug web and mobile apps — <a class="signup" href="https://lp.logrocket.com/blg/web3-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
@@ -17218,7 +17218,7 @@ March 30, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17268,7 +17268,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="websocketsevents">WebSockets events</h2>
 <p>To open the WebSocket connection, call the WebSocket object, as shown below:</p>
 <pre class="language-javascript hljs">const socket = new WebSocket(url);
@@ -17430,7 +17430,7 @@ websocketServer.on('connection', (socket) => {
 <h2 id="conclusion">Conclusion</h2>
 <p>In this article, we explored WebSockets by building a Vue chat application that provides a seamless and fast user experience, allowing users to communicate with each other in real time. You can also build on this example to add any modifications or new features. If you have any questions, feel free to reach out to me on <a href="https://twitter.com/abiolaesther_">Twitter</a> or leave a comment below. Happy coding!</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -17445,7 +17445,7 @@ websocketServer.on('connection', (socket) => {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -17652,7 +17652,7 @@ useEffect(() => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17702,7 +17702,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Finally, let’s update the source prop of the <code>Video</code> component to use the new state:</p>
 <pre class="language-javascript hljs">&lt;Video style={styles.video}
     source={{ uri: videoUri }}
@@ -17922,7 +17922,7 @@ line-height: 20%;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17972,7 +17972,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>But, this is just my two cents. Everyone has their own stack and preferences. For the sake of this tutorial, I’ll go with Tailwind CSS because it is easy to write and understand and quick to code.</p>
 <p>I have the following Figma design:</p>
 <p><img             class="aligncenter wp-image-167382 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/figma-tailwind-css-application-homepage.png" alt="Figma Tailwind CSS Application Homepage" width="730" height="341"    /><noscript><img               class="aligncenter wp-image-167382 size-full" src="https://blog.logrocket.com/wp-content/uploads/2023/04/figma-tailwind-css-application-homepage.png" alt="Figma Tailwind CSS Application Homepage" width="730" height="341"  /></noscript></p>
@@ -18349,7 +18349,7 @@ if (x == 150)
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -18399,7 +18399,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <pre class="language-kotlin hljs">class TestNPE {
     companion object {
         @JvmStatic
@@ -19647,7 +19647,7 @@ var c = newCache()
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -19697,7 +19697,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="conclusion">Conclusion</h2>
 <p>In this article, we discussed how to implement in-memory caching using the go-cache package. go-cache is just one of many packages available to handle in-memory caching in Go. Keep in mind that no matter the tool you choose to use, the underlying principle remains the same, and the benefits of caching are undoubtedly clear throughout the software development industry. It would be in your best interest to adopt the practice of caching in your next app or existing codebase.</p><div class="code-block code-block-4" >
 <div class="blog-plug base-cta"><h2>Cut through the noise of traditional error reporting with <a class="signup" href="https://lp.logrocket.com/blg/signup" target="_blank" rel="noopener noreferrer">LogRocket</a></h2>
@@ -19823,7 +19823,7 @@ April 14, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -19873,7 +19873,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The maximum safe integer you can work with without losing precision is <code>2 ** 53 - 1</code>. It is also a static data property of the <code>Number</code> constructor accessible using <code>Number.MAX_SAFE_INTEGER</code>:</p>
 <pre class="language-javascript hljs">console.log(2 ** 53 - 1 === Number.MAX_SAFE_INTEGER) // true
 </pre>
@@ -20455,7 +20455,7 @@ ReactDOM.render(&lt;App />, rootElement);
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -20505,7 +20505,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The second <code>ref</code> argument in the <code>InputRef</code> component only existed when you defined a component with <code>React.forwardRef</code> call. Regular function or class components didn’t receive the <code>ref</code> argument, and <code>ref</code> was not available in <code>props</code>. Ref forwarding is not limited to DOM components; you can forward refs to class component instances.</p>
 <h2 id="use-forwardref-with-typescript">How to use <code>forwardRef</code> with TypeScript</h2>
 <p><a href="https://blog.logrocket.com/understanding-typescripts-benefits-pitfalls/">TypeScript</a> is a JavaScript subset that offers the benefits of <a href="https://blog.logrocket.com/definitive-guide-typing-functions-typescript/">static typing</a>, enhanced tooling, and improved maintainability, leading to <a href="https://blog.logrocket.com/understanding-typescripts-benefits-pitfalls/">more robust and reliable code</a> in your JavaScript applications. <code>forwardRef</code>, as part of the React library, provides full support for TypeScript, though to maximize its benefits, the code we write should also be <a href="https://blog.logrocket.com/build-strongly-typed-polymorphic-components-react-typescript/">strongly typed</a>.</p>
@@ -20707,7 +20707,7 @@ April 28, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -20757,7 +20757,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <figure id="attachment_168327"   class="wp-caption aligncenter"><img             class="size-full wp-image-168327 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/hybrid-rendering-astro.png" alt="Server hybrid rendering in Astro" width="730" height="443"    /><noscript><img               class="size-full wp-image-168327" src="http://blog.logrocket.com/wp-content/uploads/2023/04/hybrid-rendering-astro.png" alt="Server hybrid rendering in Astro" width="730" height="443"  /></noscript><figcaption id="caption-attachment-168327" class="wp-caption-text">Server output in Astro. Source: <a href="https://astro.build/blog/hybrid-rendering/">Astro</a></figcaption></figure>
 <h3 id="branch-option-3-server-output">Branch option 3: Server output (hybrid rendering)</h3>
 <p>The build process for hybrid rendering is a combination of the <code>static</code> and <code>server</code> output. During the initial bundling process, a new static analysis step determines which pages should be prerendered, which allows routes to be split into separate chunks based on when they should be rendered.</p>
@@ -21319,7 +21319,7 @@ ignored: directory (1)
 <p><a href="https://lp.logrocket.com/blg/javascript-signup">LogRocket</a> is a frontend application monitoring solution that lets you replay JavaScript errors as if they happened in your own browser so you can react to bugs more effectively. </p><a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a>
 <a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> works perfectly with any app, regardless of framework, and has plugins to log additional context from Redux, Vuex, and @ngrx/store. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.
 </p><p>Build confidently — <a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-30 .fadeIn {
     opacity:1 !important;
@@ -21334,7 +21334,7 @@ ignored: directory (1)
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -21482,7 +21482,7 @@ April 20, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -21532,7 +21532,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="dont-forget-test-code">Don’t forget to test your code</h3>
 <p>We refactor code to make it easier to read, maintain, and so on. However, that’s not very useful if every time we refactor some piece of code, something breaks. That’s why it’s highly recommended that you first make sure there are tests covering the piece of code you wish to change.</p>
 <p>If there are no tests covering something you want to refactor, first write tests for that piece of code, and then refactor. Not only have you improved the code by refactoring it, but you also added some tests; that’s very useful.</p>
@@ -21825,7 +21825,7 @@ April 18, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -21875,7 +21875,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>An excellent example of an atomic commit is when a breaking change is made to a shared library that’s used by several apps, thereby forcing the developer to ensure the apps that depend on it are updated to be compatible with the recent change.</p>
 <h3 id="consistency">Consistency</h3>
 <p>Monorepos offer better consistency than polyrepos, since the codebase is all in one place and each project can easily share the same coding style and tools for testing, deployment, and code maintenance.</p>
@@ -22406,7 +22406,7 @@ export class CustomInterceptors implements NestInterceptor {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -22456,7 +22456,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="binding-interceptors-nestjs">Binding interceptors in NestJS</h2>
 <p>As we saw in the previous section, to set up our custom interceptor, we used the <code>@UseInterceptors()</code> decorator that applies the interceptor to that specific route (<code>getUsers</code>). So, if we have another route with <code>getReports</code>, the interceptor will not be applied because we only specified it to apply to a particular route. Like <a href="https://blog.logrocket.com/understanding-guards-nestjs/">NestJS guards and pipes</a>, interceptors can also be global-scoped, controller-scoped, or method-scoped.</p>
 <p>To implement the interceptor to apply to each route handler defined in a controller (controller-scoped), we will define it above the controller itself, as follows:</p>
@@ -22825,7 +22825,7 @@ cd nextjs-fonts
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -22875,7 +22875,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>By providing a value of <code>swap</code>, as we have seen with Google Fonts (the <code>display=swap</code> parameter in the URL will trigger a <code>font-display: swap</code>), we instruct the browser to render the page immediately with a fallback font and then swap the font with the web font after it has completely loaded.</p>
 <p>This however triggers <a href="https://fonts.google.com/knowledge/glossary/fout">a flash of unstyled text</a>, otherwise called FOUT. That switching moment can cause a shift in the text layout when the font is changed. If we simulate a font request on a slower connection, the FOUT will behave like so:</p>
 <p><img             class="aligncenter wp-image-167553 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2022/12/fout-flsh-of-unstyled-text.gif" alt="FLOUT Flash Of Unstyled Text" width="600" height="289"  /><noscript><img               class="aligncenter wp-image-167553 size-full" src="https://blog.logrocket.com/wp-content/uploads/2022/12/fout-flsh-of-unstyled-text.gif" alt="FLOUT Flash Of Unstyled Text" width="600" height="289"/></noscript></p>
@@ -23401,7 +23401,7 @@ next-app
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -23451,7 +23451,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Another unique feature of Next.js in building full-stack applications is the API routes. Next.js API routes provide a means to develop your API. Also, using API routes, Next.js enables developers to add API endpoints to their apps.</p>
 <h2 id="next-js-use-cases">Next.js use cases</h2>
 <p>Next.js allows users to build digital products with different goals and purposes. However, there are specific situations when its advantages, features, and the fact that it uses server-side rendering make it the best option. Here are a few popular products you can develop with Next.js:</p>
@@ -23840,7 +23840,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -23890,7 +23890,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>In the follow sections, we’ll cover a few of the many customizations you can make to your Plotly plots.</p>
 <h3 id="adjusting-plot-titles-axis-labels-legends">Adjusting plot titles, axis labels, and legends</h3>
 <p>The titles, axis labels, and legends of your plot are essential to propagating information in your visualizations.</p>
@@ -23999,7 +23999,7 @@ fn main() {
 <h2 id="conclusion">Conclusion</h2>
 <p>Plotly is a helpful tool when building interact web applications in Rust. In this article, you learned how to use Plotly for plotting a variety of charts, as well as how to customize those plots. You also got an overview of the differences between Plotly and the Vegalite plotting library.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -24014,7 +24014,7 @@ fn main() {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -24146,7 +24146,7 @@ April 7, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -24196,7 +24196,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="static-rendering-vs-pre-rendering">Static rendering vs. pre-rendering</h2>
 <p>You might be familiar with <a href="https://www.gatsbyjs.com/">Gatsby</a> or <a href="https://nextjs.org/docs/advanced-features/static-html-export">Next.js static <code>export</code></a>, which make it convenient to author utilizing components. However, it’s important to distinguish between static rendering and pre-rendering.</p>
 <p>Statically rendered pages are interactive without the need for a lot of client-side JavaScript. In contrast, pre-rendering improves the first paint time or the first contentful paint of a single-page application, which must be booted on the client for pages to be truly interactive.</p>
@@ -24459,7 +24459,7 @@ dialogFunction('This is title', 'This is content')
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -24509,7 +24509,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Before we begin, you should know that this package won’t work on Vue 3-based projects. If you’re building with Vue 3, you’ll want to use <code>vue3-promise-dialog</code> to create your dialogs and work with them using promises.</p>
 <p>Let’s go ahead and implement a modal with this package.</p>
 <h3 id="prerequisites">Prerequisites</h3>
@@ -25067,7 +25067,7 @@ export default defineComponent({
 </ul>
 <p>Promise-based dialogs solve these issues. It is not just a good code design choice but also the best way to handle user interactions in JavaScript, as user interactions are asynchronous.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -25082,7 +25082,7 @@ export default defineComponent({
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -25274,7 +25274,7 @@ iban=DE7823778237873</pre>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -25324,7 +25324,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>It is important to notice that CSRF tokens provide an effective defense against CSRF attacks as long as the token is generated randomly and cannot be easily guessed or predicted. Additionally, the token should expire after a certain period of time or after a single use, to prevent attackers from reusing old tokens.</p>
 <h2 id="perform-csrf-attacks-unprotected-web-pages">How to perform CSRF attacks on unprotected web pages</h2>
 <p>In this section, we’re going to take a look at the code of the example online banking page and how this is vulnerable to CSRF attacks. After that, we’re going to implement the CSRF protection using the <a href="https://www.npmjs.com/package/next-csrf"><code>next-csrf</code> package</a> and setting the <code>SameSite</code> value in our session cookie.</p>
@@ -25635,7 +25635,7 @@ April 3, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -25685,7 +25685,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>For example, it’s difficult to make a table responsive without changing the layout to suit smaller screen sizes. Additionally, a table might need scrolling in both directions. Default browser scrollbars will work well for full-width tables, but most tables are of a custom width. Custom scrollbars are very tricky to support on both touch and non-touch screens.</p>
 <p>Managing the width of a column based on data length is tricky. When we load dynamic data in the table, we often encounter UX glitches. Each time the data changes, the column width is resized, causing an alignment glitch. We need to be careful about handling these issues when designing our UX.</p>
 <h2 id="when-build-react-table-ui">When to build your own table UI in React</h2>
@@ -26466,7 +26466,7 @@ $size-xl: 30px;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -26516,7 +26516,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="styling-styled-components">Styling with styled-components</h3>
 <p>To start, create a new <code>styles.js</code> file inside the <code>src</code> directory and paste in the following code:</p>
 <pre class="language-javascript hljs">import styled from "styled-components";
@@ -27344,7 +27344,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -27394,12 +27394,12 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2>Conclusion</h2>
 <p>Handling signals in Rust is very straightforward. Despite the limited documentation available for the Rust signal crates, I trust that the insights provided here will serve as a useful starting point for implementing signal handling using Rust.</p>
 <p>Happy hacking!</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -27414,7 +27414,7 @@ border-radius: 80px;
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -27624,7 +27624,7 @@ const App = () => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -27674,7 +27674,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>React Lazy Load is fast, offers built-in support for IE8+ as well as debounce functions, and has a small bundle size of only 6kb minified compared to the others. However, keep in mind that it requires you to wrap each optimizable component and element using <code>LazyLoad</code>.</p>
 <p>You can learn more about React Lazy Load <a href="https://www.npmjs.com/package/react-lazy-load">here</a>.</p>
 <h2 id="gatsby-plugin-image"><code>gatsby-plugin-image</code></h2>
@@ -28378,7 +28378,7 @@ export default Cart;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -28428,7 +28428,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>For example, <code>FormattedMessage</code> with <code>id="app.cart.title"</code> and <code>defaultMessage="Your Cart"</code> displays the text <code>"Tu carrito"</code> in Spanish when the <code>locale</code> is set to <code>"es"</code>.</p>
 <p>Take a close look at the code block below:</p>
 <pre class="language-javascript hljs">&lt;p>
@@ -28767,7 +28767,7 @@ April 13, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -28817,7 +28817,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Another alternative is to handle this directly from the VS Code UI. From the User Settings page, search for Emmet. Then, scroll down to <strong>Emmet: Include Languages</strong> and click on <strong>add item</strong> to include the code above as a key-value pair:</p>
 <figure id="attachment_150433"   class="wp-caption aligncenter"><img             class="wp-image-150433 size-full jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2022/12/enable-emmet-vscode-react-user-settings-1.gif" alt="Enable Emmet Vscode React User Settings" width="600" height="355"  /><noscript><img               class="wp-image-150433 size-full" src="https://blog.logrocket.com/wp-content/uploads/2022/12/enable-emmet-vscode-react-user-settings-1.gif" alt="Enable Emmet Vscode React User Settings" width="600" height="355"/></noscript><figcaption id="caption-attachment-150433" class="wp-caption-text">Enable Emmet in VSCode for React directly from the user settings page</figcaption></figure>
 <h2 id="emmet-abbreviations">Emmet abbreviations</h2>
@@ -29056,7 +29056,7 @@ const harry: Client = {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -29106,7 +29106,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>For example, we can create a <code>VIPClient</code> interface by extending the <code>Client</code> interface:</p>
 <pre class="language-typescript hljs">interface VIPClient extends Client {
     benefits: string[]
@@ -29682,7 +29682,7 @@ April 11, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -29732,7 +29732,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>With prefetching, you can add <code>rel="prefetch"</code> on a link to a popular page so that the browser can download the resources for that page in advance during its idle time. When the user decides to move to the next page, that page will load faster because the resources have been cached.</p>
 <p>This works well for resources such as CSS files or scripts that will be needed on the next page. As an example, Netflix was able to <a href="https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9">reduce their time-to-interactive metric</a> for future navigations by 30 percent by prefetching React when users are logged out.</p>
 <h3 id="link-prefetching-using-prefetch">Link prefetching using <code>rel="prefetch"</code></h3>
@@ -29920,7 +29920,7 @@ April 20, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -29970,7 +29970,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="no-persistent-storage">No persistent storage</h3>
 <p>The lack of persistent storage offered by Cloudflare Workers can make it challenging to develop apps that need long-term data storage or intricate data manipulation.</p>
 <h3 id="limited-debugging-testing">Limited debugging and testing</h3>
@@ -30093,7 +30093,7 @@ export * from "./index_bg.js";
 <p>You can find the entire code used in this article in <a href="https://github.com/iamhabbeboy/cloudflare-worker-demo">my GitHub repo</a>.</p>
 <p>I hope you found this article useful; please leave your feedback in the comments section. Thanks✌️</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -30108,7 +30108,7 @@ export * from "./index_bg.js";
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -30265,7 +30265,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -30315,7 +30315,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Additionally, the cargo command will complain because the variable display is not used. It will be in the next steps, but, for the sake of clarity, it’s important that we understand its role in the program. Again, you can <a href="https://github.com/rosdec/rusted_opengl/blob/main/examples/step0.rs">reference the complete source code on GitHub</a>.</p>
 <h2 id="add-rectangle">Step 2: Add a rectangle</h2>
 <p>Out of the box, OpenGL doesn’t provide any function dedicated to drawing shapes. It only provides the graphics pipeline, so if we want to draw a rectangle, we must pass the vertices to the pipeline and assemble the shape.</p>
@@ -30444,7 +30444,7 @@ if input.state == glutin::event::ElementState::Pressed {
 <h2 id="conclusion">Conclusion</h2>
 <p>In this article, we explored three simple steps to build an interactive application with OpenGL and Rust. This is, of course, far away from a game engine, but still, it contains a few concepts that are relevant even when you use a cutting-edge game engine: the concepts of context, the frame buffer, the shaders programming, the whole events, and the event loop.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -30459,7 +30459,7 @@ if input.state == glutin::event::ElementState::Pressed {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -30635,7 +30635,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -30685,7 +30685,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>When a thread tries to acquire a lock on the shared resource using the <code>lock()</code> method, it returns a <code>Result</code> type. If the lock is not poisoned, the <code>Result</code> is <code>Ok</code> and the thread can safely use the data. If the lock has been poisoned, the <code>Result</code> is an <code>Err</code> with a <code>Poisoned</code> variant.</p>
 <p>To handle mutex poisoning, we use a <code>match</code> statement to pattern match the result of the <code>lock()</code> method. If the lock is poisoned, we call the <code>into_inner()</code> method on the <code>Poisoned</code> guard, which returns the underlying data.</p>
 <p>We can then perform recovery steps, such as logging the error or adding the current thread’s data to the shared resource. Once the recovery is complete, we return the guard so that other threads can access the shared data.</p>
@@ -30712,7 +30712,7 @@ border-radius: 80px;
 <h2 id="conclusion">Conclusion</h2>
 <p>Mutex poisoning can be a tricky problem to handle in Rust, but with the right approach, it is possible to recover from it. By understanding why mutex poisoning happens and how to detect and recover from it, you can write safer and more robust concurrent programs in Rust. Remember to always use mutexes when accessing shared resources and handle the possibility of mutex poisoning to ensure that your code is resilient and reliable.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -30727,7 +30727,7 @@ border-radius: 80px;
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -31018,7 +31018,7 @@ export default {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -31068,7 +31068,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>The result of this code would be <code>This is the header content</code> if the <code>currentSlot</code> data property is set to <code>header</code>. If the <code>currentSlot</code> data property is changed to a different value, such as <code>body</code> or <code>footer</code>, the content of the slot would change accordingly.</p>
 <p>Let’s look at a more complex example.</p>
 <p>Say you have a reusable component, such as a card, that needs to display different content based on the context in which it is used — for example, a <code>Card</code> component that takes in a title and some content. You could define a default slot for the content and use a static slot name like this:</p>
@@ -31314,7 +31314,7 @@ export default {
 <p>In this tutorial, we covered the basics of Vue slots and how we can use them to create reusable and flexible components. We also discussed how to use multiple and named slots, scoped slots, and slots in renderless components.</p>
 <p>By understanding the power of slots, you can take your Vue.js development to the next level and create highly reusable and flexible components.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -31329,7 +31329,7 @@ export default {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -31526,7 +31526,7 @@ function printName(person?: Person) {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -31576,7 +31576,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Now that we have seen some examples to gain a better understanding of the TypeScript exclamation mark, let’s look at some popular use cases for this operator.</p>
 <h3 id="performing-lookups-on-array">Performing lookups on an array</h3>
 <p>Let’s imagine we have an array of objects and we want to pick an object with a particular attribute value, like so:</p>
@@ -31929,7 +31929,7 @@ function App() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -31979,7 +31979,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>React itself considers using the <code>useTransition</code> Hook in a controlled component as an anti-pattern. The code below is an anti-pattern and should not be used at all:</p>
 <pre class="language-javascript hljs">function App(){
 
@@ -33019,7 +33019,7 @@ harness = false
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -33069,7 +33069,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="four-ways-read-file">Four ways to read a file, line by line</h2>
 <p>In order from slowest to fastest (as measured on my laptop while plugged in), here they are:</p>
 <h3 id="unbuffered-one-character">Unbuffered, one character at a time</h3>
@@ -33144,7 +33144,7 @@ border-radius: 80px;
 <p><code>BufReader</code> is more capable than we’ve shown here; it’s capable of wrapping any struct that implements the <a href="https://doc.rust-lang.org/std/io/trait.Read.html"><code>Read</code> trait</a>. Notably, this includes the <a href="https://doc.rust-lang.org/beta/std/net/struct.TcpStream.html"><code>TcpStream</code></a> <a href="https://doc.rust-lang.org/beta/std/net/struct.TcpStream.html">struct</a>, so you can use <code>BufReader</code> for network connections too.</p>
 <p>In a larger sense, whenever you’re making repeated calls to read from something, consider using buffered I/O; it can make a big difference in performance!</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -33159,7 +33159,7 @@ border-radius: 80px;
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -33311,7 +33311,7 @@ April 28, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -33361,7 +33361,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3 id="light-bundle-size">Light bundle size</h3>
 <p>Keeping JavaScript usage to a minimum on your pages is crucial for a fast user experience. A Camome UI component like <code>Button</code> costs 1.42KB when imported from <code>@camome/core/Button</code> (including CSS), and an additional 4KB from the global CSS.</p>
 <h3 id="integration-easy-ejection">Integration and easy ejection</h3>
@@ -33869,7 +33869,7 @@ function onPress() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -33919,7 +33919,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>As we learned while exploring worklets, Reanimated runs our animation in a separate thread using a separate JavaScript virtual machine context. When we create a value in our main thread or in our JavaScript, Shared Values maintains a reference to that mutable value.</p>
 <p>Since it is mutable, we can make changes to the Shared Value and see the referenced changes in the UI thread, along with a change in our animation.</p>
 <p>See the code below:</p>
@@ -34484,7 +34484,7 @@ April 19, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -34534,7 +34534,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="building-react-webcam-component">Building a React Webcam component</h2>
 <p>Now that you have set up the project, it’s time to build the React Webcam component.</p>
 <p>The first step is to create a new file in the <code>src</code> folder named <code>CustomWebcam.js</code>. In this file, import the <code>Webcam</code> component from the <code>react-webcam</code> package:</p>
@@ -34988,7 +34988,7 @@ March 30, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -35038,7 +35038,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h2 id="understanding-form-3-components">Understanding Form-3 components</h2>
 <p>The only way to access lifecycle methods in re-frame is by using Form-3 components. Let’s take a look at the typical structure of a Form-3 component:</p>
 <pre class="language-clojure hljs">(defn form3-component [a b c]
@@ -36173,7 +36173,7 @@ All threads completed!</pre>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -36223,7 +36223,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Copy the following into the <code>main.rs</code> file in a new project directory:</p>
 <pre class="language-rust hljs">use std::{ thread, time };
 
@@ -36686,7 +36686,7 @@ fn main () {
 <h2>Conclusion</h2>
 <p>This article taught you about Rust scoped threads, how they work, how to create them, and how they differ from unscoped threads. Scoped threads are a fantastic way to make multitasking in Rust more efficient.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -36701,7 +36701,7 @@ fn main () {
 
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
-</style>
+</meta>
 <meta>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
@@ -37021,7 +37021,7 @@ async recipe(@Arg("recipeId") recipeId: string) {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -37071,7 +37071,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Basic decorators can be easily refactored to the TypeScript 5.0 version, but advanced use cases will require more effort. Developers can refactor existing decorators to use the new API and take advantage of the associated benefits. They can be less dependent on external libraries and are less likely to refactor code in the future. These changes to TypeScript’s implementation of decorators are a benefit to the broader ecosystem, but community adoption could take some time.</p><div class="code-block code-block-21" >
 <div class="blog-plug inline-plug typescript-plug"><h2><a class="signup" href="https://lp.logrocket.com/blg/typescript-signup" target="_blank" rel="noopener noreferrer">LogRocket</a>: Full visibility into your web and mobile apps</h2>
 <a href="https://lp.logrocket.com/blg/typescript-signup" class="signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a>
@@ -37200,7 +37200,7 @@ console.log(name());
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -37250,7 +37250,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>It is worth noting that reactive variables in Apollo Client are updated automatically, so even if the value of the <code>name</code> variable is changed elsewhere in the code, the logged value will always reflect the latest value of the variable.</p>
 <p>However, there is a way to modify a reactive variable in Apollo Client, as we’ll see a little later in this article.</p>
 <h2 id="using-field-policies-local-only-fields-read-local-data">Using field policies and local-only fields to read local data</h2>
@@ -37482,7 +37482,7 @@ April 3, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -37532,7 +37532,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>WebSockets are similar to SSE but also triumph in taking messages back from the client to the server. Connection restrictions are no longer an issue because data is served over a single TCP socket connection.</p>
 <h2 id="use-websockets-node-js-react">How to use WebSockets with Node.js and React</h2>
 <p>As mentioned in the introduction, the WebSocket protocol has only two agendas: 1) to open up a handshake, and 2) to help the data transfer. Let’s see how WebSockets fulfills those agendas. To do that, I’m going to spin off a Node.js server and <a href="https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5/">connect it to a client built with React.js</a>.</p>
@@ -37965,7 +37965,7 @@ describe('add', () => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -38015,7 +38015,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <p>Slow tests can be a barrier to efficient and effective software development, and it’s important to optimize test speed wherever possible. This may include running tests in parallel, using test data isolated from production data, and designing tests to be as focused as possible.</p>
 <p>In the case of Selenium tests, the slow speed may be due to the fact that they involve launching a browser and interacting with the UI, which is inherently slower than running tests that work with code in memory. Because Selenium tests are usually integration or end-to-end tests, they can depend on external resources such as a database or web service, which can introduce additional latency.</p>
 <h2>Conclusion</h2>
@@ -38129,7 +38129,7 @@ April 12, 2023 </time></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -38179,7 +38179,7 @@ mix-blend-mode: normal;
 box-shadow: 0px 24px 30px rgba(0, 0, 0, 0.11);
 border-radius: 80px;
   border: none;
-}</style></div>
+}</meta></div>
 <h3><code>paths</code></h3>
 <p>The <code>paths</code> object describes the endpoints of the API and the operations that can be performed on them. This includes the <a href="https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/">HTTP methods, like <code>GET</code>, <code>POST</code>, and <code>PUT</code></a>, as well as the parameters and responses for each endpoint.</p>
 <h3><code>components</code></h3>
