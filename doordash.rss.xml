@@ -12,7 +12,7 @@
   
     <channel>
       <title>DoorDash Engineering Blog</title>
-      <atom:link href="https://doordash.engineering/feed/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://raw.githubusercontent.com/SalvaChiLlo/Reporting/main/doordash.rss.xml" rel="self" type="application/rss+xml" />
       <link>https://doordash.engineering/</link>
       <description>The official blog of the DoorDash Engineering team.</description>
       <lastBuildDate>Wed, 26 Apr 2023 20:14:47 +0000</lastBuildDate>
