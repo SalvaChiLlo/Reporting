@@ -57,7 +57,7 @@ Ogundipe Samuel <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">3 ways to implement infinite scroll in React</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 14, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">4 min read</span>
@@ -388,7 +388,7 @@ Hassan Djirdeh <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">5 useful JSON tools to improve your productivity</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 6, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -669,7 +669,7 @@ Glad Chinda <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">A guide to JavaScript bitwise operators</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 13, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">15 min read</span>
@@ -1544,7 +1544,7 @@ Georgey V B <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">A guide to cookies in Next.js</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 4, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -1803,7 +1803,7 @@ Rosario De Chiara <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">A guide to natural language processing with Python using spaCy</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 10, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -1894,7 +1894,7 @@ print([(w.text, w.pos_) for w in doc])
 ('$', 'SYM'), ('1', 'NUM'), ('billion', 'NUM'), ('.', 'PUNCT')]
 </pre>
 <p>The possible parts of speech are described in the following table and, per usual, they heavily depend on the language of the text:</p>
-<style type="text/css">
+<meta type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}<br/>.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;<br/>  overflow:hidden;padding:10px 5px;word-break:normal;}<br/>.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;<br/>  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}<br/>.tg .tg-4r4g{background-color:#F7F9FA;border-color:inherit;color:#1B2733;text-align:left;text-decoration:underline;<br/>  vertical-align:top}<br/>.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}<br/></meta>
 <table class="tg">
 <thead>
@@ -2178,7 +2178,7 @@ Rahman Fadhil <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">A practical guide to TypeScript decorators</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 4, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">9 min read</span>
@@ -2711,7 +2711,7 @@ Shalitha Suranga <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Add stepper components to your React app</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 18, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -3367,7 +3367,7 @@ David Omotayo <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Boost accessibility for high-contrast users with CSS</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 26, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -3719,7 +3719,7 @@ Vijit Ail <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Build a React Native app with Solito</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 6, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -4226,7 +4226,7 @@ Alejandro Ulate Fallas <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Build a SwiftUI customizable segmented control</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 14, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -4733,7 +4733,7 @@ Ahmad Rosid <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Build a real-time chat app with Rust and React</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 26, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">25 min read</span>
@@ -6406,7 +6406,7 @@ Isaac Okoro <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Build a web editor with react-monaco-editor</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 24, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -6745,7 +6745,7 @@ Solomon Esenyi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Build an application with Node.js and PouchDB</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 19, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -7012,7 +7012,7 @@ Timonwa Akintokun <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Build customized data tables with PrimeReact</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 17, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -7509,7 +7509,7 @@ Ivaylo Gerchev <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Building Vue.js grid layouts: Best libraries and components</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 3, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">9 min read</span>
@@ -8061,7 +8061,7 @@ Stanley Ulili <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Building a TypeScript CLI with Node.js and Commander</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 13, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">18 min read</span>
@@ -8862,7 +8862,7 @@ Nefe James <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Building a prototype with Chunk</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 10, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">3 min read</span>
@@ -9072,7 +9072,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Building a simple login form with Node.js</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 29, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -9472,7 +9472,7 @@ Hulya Karakaya <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Building an adaptive, accessible UI library with React Aria</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 4, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -9869,7 +9869,7 @@ Andrew Baisden <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Building custom maps with React Native Mapbox</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 27, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -10334,7 +10334,7 @@ Shalitha Suranga <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Create customizable and shareable calendars in React Native</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 14, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">15 min read</span>
@@ -11176,7 +11176,7 @@ Nelson Michael <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Create smooth page transitions with Barba.js</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 3, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">9 min read</span>
@@ -11743,7 +11743,7 @@ Ibadehin Mojeed <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Creating a custom CSS range slider with JavaScript upgrades</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 11, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -12241,7 +12241,7 @@ Rahul Chhodde <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Creating custom CSS typography with COLRv1 specification</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 7, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -12522,7 +12522,7 @@ Emmanuel Odioko <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Creating responsive mobile layouts with Pure.css</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 18, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -12873,7 +12873,7 @@ Doğacan Bilgili <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Customize a reusable React dropdown menu component</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 4, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -13362,7 +13362,7 @@ Austin Roy Omondi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Exploring Lerna’s second era</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 4, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -13637,7 +13637,7 @@ Samson Omojola <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Exploring the best GraphQL data visualization tools</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 27, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -13967,7 +13967,7 @@ David Atanda <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Firebase vs. Supabase: Choosing the right tool for your project</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 5, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -14385,7 +14385,7 @@ Glauber Costa <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Get started with libSQL, a next-gen fork of SQLite</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 31, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -14894,7 +14894,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Getting started with React Native and ClojureScript</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 25, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -15181,7 +15181,7 @@ Rupesh Chaudhari <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Getting started with Sendbird in React Native</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 21, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -15846,7 +15846,7 @@ Popoola Temitope <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How Tabby compares with the VS Code terminal</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 5, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">3 min read</span>
@@ -16067,7 +16067,7 @@ Nefe James <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to add dynamic styling and class names in Vue.js</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 30, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -16481,7 +16481,7 @@ Clara Ekekenta <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to build a TypeScript app with Vite</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 11, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -16856,7 +16856,7 @@ Solomon Esenyi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to build a blockchain with Go</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 30, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -17167,7 +17167,7 @@ Abiola Farounbi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to build a real-time Vue app with WebSockets</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 30, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -17527,7 +17527,7 @@ Emmanuel John <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to build <code>keepAwake</code> into your React Native app</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 13, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -17839,7 +17839,7 @@ Murat Yüksel <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to convert Figma components to Next.js with Tailwind CSS</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 25, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">11 min read</span>
@@ -18226,7 +18226,7 @@ Mamta Dalal <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to fix a <code>NullPointerException</code> in Android</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 20, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -19395,7 +19395,7 @@ Alexander Godwin <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to implement in-memory caching in Go</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 10, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">4 min read</span>
@@ -19764,7 +19764,7 @@ Joseph Mawa <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to represent large numbers in your Node.js app</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 14, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -20213,7 +20213,7 @@ Peter Ekene Eze <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">How to use <code>forwardRef</code> in React</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 31, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -20633,7 +20633,7 @@ Emanuel Suriano <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Hybrid rendering in Astro: A step-by-step guide</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 28, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">15 min read</span>
@@ -21417,7 +21417,7 @@ Victor Brandalise <span class="btn follow">Follow</span></a>
 
 <h1 class="posttitle">Identifying and addressing Kotlin code smells</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 20, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -21757,7 +21757,7 @@ Oghenetega Denedo <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Learn how to build a monorepo in Next.js</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 18, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -22230,7 +22230,7 @@ Taofiq Aiyelabegan <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">NestJS interceptors: Guide and use cases</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 12, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">9 min read</span>
@@ -22721,7 +22721,7 @@ Ibadehin Mojeed <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Next.js font optimization: Adding custom and Google fonts</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 30, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">12 min read</span>
@@ -23315,7 +23315,7 @@ Jude Miracle <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Next.js vs. Nuxt.js: Ultimate guide</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 11, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">13 min read</span>
@@ -23662,7 +23662,7 @@ Ukeje Goodness <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Plotting Rust projects using Plotly</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 26, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -24096,7 +24096,7 @@ Raphael Ugwu <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Pre-rendering your React app with react-snap</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 7, 2023 </p></span>
  <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -24365,7 +24365,7 @@ Emmanuel John <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Promise handling for complex modals in Vue 3</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 3, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -25164,7 +25164,7 @@ Kevin Tomas <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Protecting Next.js apps from CSRF attacks</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 24, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -25526,7 +25526,7 @@ Paramanantham Harrison <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">React Table: A complete guide with updates for TanStack Table</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 3, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">15 min read</span>
@@ -26266,7 +26266,7 @@ Eslam Hefnawy <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">SCSS vs. styled-components: Advantages and caveats</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 6, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -26669,7 +26669,7 @@ Onuorah Bonaventure <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Styling webpages with Sakura CSS</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 31, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -27145,7 +27145,7 @@ Eze Sunday <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">The guide to signal handling in Rust</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 5, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -27496,7 +27496,7 @@ Fortune Ikechi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">The top libraries for lazy loading React in 2023</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 14, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -27925,7 +27925,7 @@ Emmanuel Odioko <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Translate your React app using Format.js</h1>
  <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 7, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">14 min read</span>
@@ -28697,7 +28697,7 @@ Abiola Farounbi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Type HTML faster in React with Emmet and VS Code</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 13, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">4 min read</span>
@@ -28955,7 +28955,7 @@ Yan Sun <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Types vs. interfaces in TypeScript</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 6, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -29309,7 +29309,7 @@ Muhammed Ali <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding API key authentication in Node.js</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 12, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -29563,7 +29563,7 @@ Stanley Ulili <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding CSS preload and other resource hints</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 11, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -29860,7 +29860,7 @@ Abiodun Solomon <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding Cloudflare Workers in Rust</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 20, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -30190,7 +30190,7 @@ Rosario De Chiara <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding OpenGL basics in Rust</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 17, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -30542,7 +30542,7 @@ Ikeh Akinyemi <span class="btn follow">Follow</span></a>
 
 <h1 class="posttitle">Understanding and handling Rust mutex poisoning</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 18, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -30809,7 +30809,7 @@ Samson Omojola <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding slots in Vue.js: Types, benefits, use cases</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 5, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -31411,7 +31411,7 @@ Ibiyemi Adewakun <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding the exclamation mark in TypeScript</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 4, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -31795,7 +31795,7 @@ Abhinav Anshul <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Understanding when and how to prioritize React UI updates</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 17, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">4 min read</span>
@@ -32948,7 +32948,7 @@ Greg Stoll <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using <code>BufRead</code> for faster Rust I/O speed</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 13, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -33241,7 +33241,7 @@ Jude Miracle <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using Camome to design highly customizable UIs</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 28, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">11 min read</span>
@@ -33806,7 +33806,7 @@ Chimezie Innocent <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using React Native Reanimated for seamless UI transitions</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 13, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">9 min read</span>
@@ -34415,7 +34415,7 @@ Rishi Purwar <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using React Webcam to capture and display images</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 19, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -34860,7 +34860,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using React lifecycle methods in Clojure apps with re-frame</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 March 30, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">7 min read</span>
@@ -36056,7 +36056,7 @@ Oduah Chigozie <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using Rust scoped threads to improve efficiency and safety</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 21, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">10 min read</span>
@@ -36783,7 +36783,7 @@ Alec Brunelle <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using modern decorators in TypeScript</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 28, 2023 </p></span>
 
 <span class="dot"/>
@@ -37137,7 +37137,7 @@ Nelson Michael <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Using reactive variables with Apollo Client</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 25, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">5 min read</span>
@@ -37416,7 +37416,7 @@ Avanthika Meenakshi <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">WebSockets tutorial: How to go real-time with Node and React</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 3, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">8 min read</span>
@@ -37797,7 +37797,7 @@ Anton Kalik <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Why you should avoid Selenium for unit testing Node.js apps</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 27, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
@@ -38080,7 +38080,7 @@ Rishabh Rawat <span class="btn follow">Follow</span></a>
 </div>
 <h1 class="posttitle">Write a scalable OpenAPI specification for a Node.js API</h1>
 <p>
-<span class="post-date"><time class="post-date">
+<span class="post-date"><p class="post-date">
 April 12, 2023 </p></span>
 <span class="dot"/>
 <span class="readingtime">6 min read</span>
