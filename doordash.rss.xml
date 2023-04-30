@@ -12,7 +12,7 @@
   
     <channel>
       <title>DoorDash Engineering Blog</title>
-      <atom:link href="https://doordash.engineering/feed/" type="application/rss+xml" />
+      <atom:link href="https://doordash.engineering/feed/" rel="self" type="application/rss+xml" />
       <link>https://doordash.engineering/</link>
       <description>The official blog of the DoorDash Engineering team.</description>
       <lastBuildDate>Wed, 26 Apr 2023 20:14:47 +0000</lastBuildDate>
@@ -44,9 +44,9 @@
 		<div class="container">
 			<h1>“Designing” a Career Ladder for Product Design</h1>
 			<div class="meta clearfix">
-							<date><i class="fa fa-calendar-o" aria-hidden="true"/> September 3, 2019</date>
-							<time><i class="fa fa-clock-o" aria-hidden="true"/> 8 Minute Read</time>
-							<span class="ccc"><i class="fa fa-list" aria-hidden="true"/> 
+							<date><i class="fa fa-calendar-o" /> September 3, 2019</date>
+							<time><i class="fa fa-clock-o" /> 8 Minute Read</time>
+							<span class="ccc"><i class="fa fa-list" /> 
 								General							</span>
 														<span class="ccc"><a href="#" class="dot-irecommendthis" id="dot-irecommendthis-799" title="Recommend this"><span class="dot-irecommendthis-count">14</span> <span class="dot-irecommendthis-suffix"/></a></span>
 										</div>
@@ -60,7 +60,7 @@
 							<b class="closethis"><i class="fas fa-times"/></b>
 							
 							<div class="rw1">
-								<div class="big"><img width="96" height="96" src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/0-1.jpeg?fit=96%2C96&amp;ssl=1" class="avatar avatar-96 photo" alt="" decoding="async"              /></div>
+								<div class="big"><img width="96" height="96" src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/0-1.jpeg?fit=96%2C96&amp;ssl=1" class="avatar avatar-96 photo" alt=""               /></div>
 								<div class="uname">
 									<h4>Helena Seo</h4><p>Design leader, people manager and product strategist. Currently Head of Design at DoorDash.</p>
 								</div>
@@ -73,7 +73,7 @@
 									<img src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2020/05/Screen-Shot-2020-05-12-at-7.58.48-PM.png?fit=300%2C139&amp;ssl=1" alt=""/>
 									<div>
 										<span>Interview with Rajat Shroff – VP of Product at DoorDash</span>
-										<time><i class="fa fa-clock-o" aria-hidden="true"/> 7 Minute Read</time>
+										<time><i class="fa fa-clock-o" /> 7 Minute Read</time>
 									</div>
 								</a>
 											
@@ -81,7 +81,7 @@
 									<img src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2020/04/Radhika-Bhalla.jpeg?fit=300%2C214&amp;ssl=1" alt=""/>
 									<div>
 										<span>Design Leadership Interview with Radhika Bhalla</span>
-										<time><i class="fa fa-clock-o" aria-hidden="true"/> 9 Minute Read</time>
+										<time><i class="fa fa-clock-o" /> 9 Minute Read</time>
 									</div>
 								</a>
 											
@@ -89,7 +89,7 @@
 									<img src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2020/01/Image-1-9-20-at-11.05-AM.jpg?fit=300%2C123&amp;ssl=1" alt=""/>
 									<div>
 										<span>Becoming a Leader as a First-Generation Immigrant</span>
-										<time><i class="fa fa-clock-o" aria-hidden="true"/> 7 Minute Read</time>
+										<time><i class="fa fa-clock-o" /> 7 Minute Read</time>
 									</div>
 								</a>
 											
@@ -97,7 +97,7 @@
 									<img src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/1_I0939f-Oq5LjcrcIUnoFNw.png?fit=300%2C180&amp;ssl=1" alt=""/>
 									<div>
 										<span>“Designing” a Career Ladder for Product Design</span>
-										<time><i class="fa fa-clock-o" aria-hidden="true"/> 8 Minute Read</time>
+										<time><i class="fa fa-clock-o" /> 8 Minute Read</time>
 									</div>
 								</a>
 											
@@ -105,8 +105,8 @@
 							</div>
 													</div>
 					</div>
-					<a href="#" data-href="author47" class="openauthor auv1">
-						<img width="96" height="96" src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/0-1.jpeg?fit=96%2C96&amp;ssl=1" class="avatar avatar-96 photo" alt="" decoding="async"              />Helena Seo					</a>
+					<a href="#"  class="openauthor auv1">
+						<img width="96" height="96" src="https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/0-1.jpeg?fit=96%2C96&amp;ssl=1" class="avatar avatar-96 photo" alt=""               />Helena Seo					</a>
 									</span>
 				  <span class="commentcounter stf1"><i class="far fa-comment-alt"/>&amp;nbsp;1</span>			  </div>
 				
@@ -119,7 +119,7 @@ I decided to take a design-thinking approach to this task, and went through a pr
 
 &amp;nbsp;
 
-<div id="attachment_802" style="width: 1616px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-802" class="alignnone size-full wp-image-802" src="https://doordash.engineering/wp-content/uploads/2019/09/1_QPEqWgnh9uBVnV-ssxo4g.png" alt="illustration of the design process " width="1606" height="384"/><p id="caption-attachment-802" class="wp-caption-text">The design process</p></div>
+<div id="attachment_802" style="width: 1616px" class="wp-caption alignnone"><img  class="alignnone size-full wp-image-802" src="https://doordash.engineering/wp-content/uploads/2019/09/1_QPEqWgnh9uBVnV-ssxo4g.png" alt="illustration of the design process " width="1606" height="384"/><p id="caption-attachment-802" class="wp-caption-text">The design process</p></div>
 <h2>Audience and their needs</h2>
 I identified three audiences who would use the career ladder: designers, managers, and HR. I also captured what each audience cared about the most:
 <h3>Designers</h3>
