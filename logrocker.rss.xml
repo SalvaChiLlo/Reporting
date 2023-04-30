@@ -250,7 +250,7 @@ useEffect(() => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -918,7 +918,7 @@ For a pair of bits, here are the possible values of an XOR operation:</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -1447,7 +1447,7 @@ flag &amp; LIST_UNIQUE
 <a href="https://lp.logrocket.com/blg/javascript-signup" class="signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2020/06/reproduce-javascript-errors.gif" alt="LogRocket Dashboard Free Trial Banner"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2020/06/reproduce-javascript-errors.gif" alt="LogRocket Dashboard Free Trial Banner"/></noscript></a>
 <p >LogRocket records console logs, page load times, stacktraces, slow network requests/responses with headers + bodies, browser metadata, and custom logs. Understanding the impact of your JavaScript code will never be easier!</p>
 <a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">Try it for free</a>.</div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-29 .fadeIn {
     opacity:1 !important;
@@ -2062,7 +2062,7 @@ print(nlp.get_pipe("ner").labels)
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -2310,7 +2310,7 @@ Hello, world!
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -2964,7 +2964,7 @@ function App() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -3443,7 +3443,7 @@ April 26, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -3848,7 +3848,7 @@ export interface News {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -4369,7 +4369,7 @@ Text(vehicle.rawValue.capitalized)
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -5743,7 +5743,7 @@ content: [
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -7325,7 +7325,7 @@ const [selectedProduct, setSelectedProduct] = useState(null);</pre>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -7575,7 +7575,7 @@ April 3, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -7964,7 +7964,7 @@ export default {
 <p>We also discussed how data tables differ from data grids. Since developers often incorrectly use both terms interchangeably, this distinction is important to understand when you are searching for an appropriate layout library.</p>
 <p>Now you’re ready to start building layouts with Vue.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -8213,7 +8213,7 @@ April 13, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -9171,7 +9171,7 @@ const dotenv = require('dotenv')
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -9589,7 +9589,7 @@ export default function App() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -10213,7 +10213,7 @@ const styles = StyleSheet.create({
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -10469,7 +10469,7 @@ export default App;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -11297,7 +11297,7 @@ Here’s how your markup should look:</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -11646,7 +11646,7 @@ barba.init({
 <p><a href="https://lp.logrocket.com/blg/javascript-signup">LogRocket</a> is a frontend application monitoring solution that lets you replay JavaScript errors as if they happened in your own browser so you can react to bugs more effectively. </p><a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a>
 <a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> works perfectly with any app, regardless of framework, and has plugins to log additional context from Redux, Vuex, and @ngrx/store. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.
 </p><p>Build confidently — <a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-30 .fadeIn {
     opacity:1 !important;
@@ -11827,7 +11827,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -12333,7 +12333,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13065,7 +13065,7 @@ April 4, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13498,7 +13498,7 @@ April 4, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13691,7 +13691,7 @@ April 27, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -13870,7 +13870,7 @@ border-radius: 80px;
 <p>No matter which tool you choose, it’s important to remember that data visualization is a crucial part of working with GraphQL. By using a high-quality data visualizer, you can gain deeper insights into your data, identify potential issues more easily, and streamline your development process.</p>
 <p>Don’t be afraid to try out different options and find the one that works best for you!</p><div class="code-block code-block-24" >
 <div class="blog-plug inline-plug graphql-plug"><h2>Monitor failed and slow GraphQL requests in production</h2>While GraphQL has some features for debugging requests and responses, making sure GraphQL reliably serves resources to your production app is where things get tougher. If you’re interested in ensuring network requests to the backend or third party services are successful, <a href="https://lp.logrocket.com/blg/graphql-signup" target="_blank">try LogRocket</a>.<a class="signup" href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer"><img src="https://files.readme.io/69aa835-Image_2019-11-09_at_1.28.05_PM.png"   class=" jetpack-lazy-image"/><noscript><img  src="https://files.readme.io/69aa835-Image_2019-11-09_at_1.28.05_PM.png"/></noscript><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your site. Instead of guessing why problems happen, you can aggregate and report on problematic GraphQL requests to quickly understand the root cause. In addition, you can track Apollo client state and inspect GraphQL queries' key-value pairs.</p>LogRocket instruments your app to record baseline performance timings such as page load time, time to first byte, slow network requests, and also logs Redux, NgRx, and Vuex actions/state. <a class="signup" href="https://lp.logrocket.com/blg/graphql-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-25 .fadeIn {
     opacity:1 !important;
@@ -14060,7 +14060,7 @@ April 5, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -14471,7 +14471,7 @@ brew install sqld-beta
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -14938,7 +14938,7 @@ April 25, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -15697,7 +15697,7 @@ export default createGroupChannelCreateFragment;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -15938,7 +15938,7 @@ April 5, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -16384,7 +16384,7 @@ export default {
 <h2>Conclusion</h2>
 <p>In this article, we’ve explored how to dynamically style Vue.js applications to help us create unique user experiences. Editing the appearance and behavior of our applications goes a long way toward improving the usability of our applications.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -16553,7 +16553,7 @@ April 11, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17054,7 +17054,7 @@ import (
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17218,7 +17218,7 @@ March 30, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17430,7 +17430,7 @@ websocketServer.on('connection', (socket) => {
 <h2 id="conclusion">Conclusion</h2>
 <p>In this article, we explored WebSockets by building a Vue chat application that provides a seamless and fast user experience, allowing users to communicate with each other in real time. You can also build on this example to add any modifications or new features. If you have any questions, feel free to reach out to me on <a href="https://twitter.com/abiolaesther_">Twitter</a> or leave a comment below. Happy coding!</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -17652,7 +17652,7 @@ useEffect(() => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -17922,7 +17922,7 @@ line-height: 20%;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -18349,7 +18349,7 @@ if (x == 150)
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -19647,7 +19647,7 @@ var c = newCache()
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -19823,7 +19823,7 @@ April 14, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -20455,7 +20455,7 @@ ReactDOM.render(&lt;App />, rootElement);
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -20707,7 +20707,7 @@ April 28, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -21319,7 +21319,7 @@ ignored: directory (1)
 <p><a href="https://lp.logrocket.com/blg/javascript-signup">LogRocket</a> is a frontend application monitoring solution that lets you replay JavaScript errors as if they happened in your own browser so you can react to bugs more effectively. </p><a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2019/10/errors-screenshot.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a>
 <a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> works perfectly with any app, regardless of framework, and has plugins to log additional context from Redux, Vuex, and @ngrx/store. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.
 </p><p>Build confidently — <a class="signup" href="https://lp.logrocket.com/blg/javascript-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-30 .fadeIn {
     opacity:1 !important;
@@ -21482,7 +21482,7 @@ April 20, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -21825,7 +21825,7 @@ April 18, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -22406,7 +22406,7 @@ export class CustomInterceptors implements NestInterceptor {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -22825,7 +22825,7 @@ cd nextjs-fonts
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -23401,7 +23401,7 @@ next-app
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -23840,7 +23840,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -23999,7 +23999,7 @@ fn main() {
 <h2 id="conclusion">Conclusion</h2>
 <p>Plotly is a helpful tool when building interact web applications in Rust. In this article, you learned how to use Plotly for plotting a variety of charts, as well as how to customize those plots. You also got an overview of the differences between Plotly and the Vegalite plotting library.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -24146,7 +24146,7 @@ April 7, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -24459,7 +24459,7 @@ dialogFunction('This is title', 'This is content')
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -25067,7 +25067,7 @@ export default defineComponent({
 </ul>
 <p>Promise-based dialogs solve these issues. It is not just a good code design choice but also the best way to handle user interactions in JavaScript, as user interactions are asynchronous.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -25274,7 +25274,7 @@ iban=DE7823778237873</pre>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -25635,7 +25635,7 @@ April 3, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -26466,7 +26466,7 @@ $size-xl: 30px;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -27344,7 +27344,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -27399,7 +27399,7 @@ border-radius: 80px;
 <p>Handling signals in Rust is very straightforward. Despite the limited documentation available for the Rust signal crates, I trust that the insights provided here will serve as a useful starting point for implementing signal handling using Rust.</p>
 <p>Happy hacking!</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -27624,7 +27624,7 @@ const App = () => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -28378,7 +28378,7 @@ export default Cart;
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -28767,7 +28767,7 @@ April 13, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -29056,7 +29056,7 @@ const harry: Client = {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -29682,7 +29682,7 @@ April 11, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -29920,7 +29920,7 @@ April 20, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -30093,7 +30093,7 @@ export * from "./index_bg.js";
 <p>You can find the entire code used in this article in <a href="https://github.com/iamhabbeboy/cloudflare-worker-demo">my GitHub repo</a>.</p>
 <p>I hope you found this article useful; please leave your feedback in the comments section. Thanks✌️</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -30265,7 +30265,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -30444,7 +30444,7 @@ if input.state == glutin::event::ElementState::Pressed {
 <h2 id="conclusion">Conclusion</h2>
 <p>In this article, we explored three simple steps to build an interactive application with OpenGL and Rust. This is, of course, far away from a game engine, but still, it contains a few concepts that are relevant even when you use a cutting-edge game engine: the concepts of context, the frame buffer, the shaders programming, the whole events, and the event loop.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -30635,7 +30635,7 @@ fn main() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -30712,7 +30712,7 @@ border-radius: 80px;
 <h2 id="conclusion">Conclusion</h2>
 <p>Mutex poisoning can be a tricky problem to handle in Rust, but with the right approach, it is possible to recover from it. By understanding why mutex poisoning happens and how to detect and recover from it, you can write safer and more robust concurrent programs in Rust. Remember to always use mutexes when accessing shared resources and handle the possibility of mutex poisoning to ensure that your code is resilient and reliable.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -31018,7 +31018,7 @@ export default {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -31314,7 +31314,7 @@ export default {
 <p>In this tutorial, we covered the basics of Vue slots and how we can use them to create reusable and flexible components. We also discussed how to use multiple and named slots, scoped slots, and slots in renderless components.</p>
 <p>By understanding the power of slots, you can take your Vue.js development to the next level and create highly reusable and flexible components.</p><div class="code-block code-block-20" >
 <div class="blog-plug inline-plug vue-inline"><h2>Experience your Vue apps exactly how a user does</h2> Debugging Vue.js applications can be difficult, especially when there are dozens, if not hundreds of mutations during a user session. If you’re interested in monitoring and tracking Vue mutations for all of your users in production, <a href="https://lp.logrocket.com/blg/vue-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://files.readme.io/00591d0-687474703a2f2f692e696d6775722e636f6d2f6a3049327856572e706e67.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">https://logrocket.com/signup/</a><p ><a href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens in your Vue apps including network requests, JavaScript errors, performance problems, and much more. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. </p><p>The LogRocket Vuex plugin logs Vuex mutations to the LogRocket console, giving you context around what led to an error, and what state the application was in when an issue occurred.</p><p>Modernize how you debug your Vue apps - <a class="signup" href="https://lp.logrocket.com/blg/vue-signup" target="_blank" rel="noopener noreferrer">Start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-8 .fadeIn {
     opacity:1 !important;
@@ -31526,7 +31526,7 @@ function printName(person?: Person) {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -31929,7 +31929,7 @@ function App() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -33019,7 +33019,7 @@ harness = false
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -33144,7 +33144,7 @@ border-radius: 80px;
 <p><code>BufReader</code> is more capable than we’ve shown here; it’s capable of wrapping any struct that implements the <a href="https://doc.rust-lang.org/std/io/trait.Read.html"><code>Read</code> trait</a>. Notably, this includes the <a href="https://doc.rust-lang.org/beta/std/net/struct.TcpStream.html"><code>TcpStream</code></a> <a href="https://doc.rust-lang.org/beta/std/net/struct.TcpStream.html">struct</a>, so you can use <code>BufReader</code> for network connections too.</p>
 <p>In a larger sense, whenever you’re making repeated calls to read from something, consider using buffered I/O; it can make a big difference in performance!</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -33311,7 +33311,7 @@ April 28, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -33869,7 +33869,7 @@ function onPress() {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -34484,7 +34484,7 @@ April 19, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -34988,7 +34988,7 @@ March 30, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -36173,7 +36173,7 @@ All threads completed!</pre>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -36686,7 +36686,7 @@ fn main () {
 <h2>Conclusion</h2>
 <p>This article taught you about Rust scoped threads, how they work, how to create them, and how they differ from unscoped threads. Scoped threads are a fantastic way to make multitasking in Rust more efficient.</p><div class="code-block code-block-29" >
 <div class="blog-plug inline-plug rust-plug"><h2><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">LogRocket</a>: Full visibility into web frontends for Rust apps</h2> Debugging Rust applications can be difficult, especially when users experience issues that are difficult to reproduce. If you’re interested in monitoring and tracking performance of your Rust apps, automatically surfacing errors, and tracking slow network requests and load time, <a href="https://lp.logrocket.com/blg/rust-signup" target="_blank">try LogRocket</a>. <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-46 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"  /><noscript><img  class="alignnone size-full wp-image-46" src="https://blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png" alt="LogRocket Dashboard Free Trial Banner" width="1200" height="677"/></noscript></a><p ><a href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">LogRocket</a> is like a DVR for web and mobile apps, recording literally everything that happens on your Rust app. Instead of guessing why problems happen, you can aggregate and report on what state your application was in when an issue occurred. LogRocket also monitors your app’s performance, reporting metrics like client CPU load, client memory usage, and more.</p><p>Modernize how you debug your Rust apps — <a class="signup" href="https://lp.logrocket.com/blg/rust-signup" target="_blank" rel="noopener noreferrer">start monitoring for free</a>.</p></div>
-<style>
+<meta>
 .plug-poll {margin-bottom: 2rem;}
 .code-block-31 .fadeIn {
     opacity:1 !important;
@@ -37021,7 +37021,7 @@ async recipe(@Arg("recipeId") recipeId: string) {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -37200,7 +37200,7 @@ console.log(name());
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -37482,7 +37482,7 @@ April 3, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -37965,7 +37965,7 @@ describe('add', () => {
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
@@ -38129,7 +38129,7 @@ April 12, 2023 </p></span>
 </div>
 </div></a></div>
 <hr/>
-<style>
+<meta>
 @media all and (max-width: 800px){
     .tweet-embed-container {flex-direction: column !important;}
     .single-tweet, .embed-tweet-right {width: 100% !important;}
