@@ -1463,7 +1463,7 @@ flag &amp; LIST_UNIQUE
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -1484,7 +1484,7 @@ flag &amp; LIST_UNIQUE
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-4261" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/guide-javascript-bitwise-operators/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/guide-javascript-bitwise-operators/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-4261" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/guide-javascript-bitwise-operators/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-4261" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/guide-javascript-bitwise-operators/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -7980,7 +7980,7 @@ export default {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -8001,7 +8001,7 @@ export default {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-165703" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/building-vue-js-grid-layouts/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/building-vue-js-grid-layouts/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-165703" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/building-vue-js-grid-layouts/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-165703" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/building-vue-js-grid-layouts/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -8992,7 +8992,7 @@ function App() {
 <p class="codepen"  data-height="399.66796875" data-default-tab="html,result" data-slug-hash="GRXNoVN" data-user="nefejames">See the Pen <a href="https://codepen.io/nefejames/pen/GRXNoVN"><br/>
 logrocket chunk products api</a> by Emadamerho Nefe (<a href="https://codepen.io/nefejames">@nefejames</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://cpwebassets.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://cpwebassets.codepen.io/assets/embed/ei.js"/></p>
 <h2>Conclusion</h2>
 <p>Chunk is an excellent tool for creating simple projects and demos. It has an easy-to-use interface and removes the complexities of running server-side code. No complex setup or installations are required on our end.</p>
 <p>As of this writing, the only issue I spotted with Chunk is the poor approach to product education, as no documentation exists. This makes it difficult to truly understand what Chunk is, how it works, its inner workings, and how to use it best. Chunk currently expects the user to find their way. It makes some assumptions about the technical knowledge users should have, and ultimately the responsibility rests on the user to learn how to use Chunk properly. Explore some of the <a href="https://chunk.run/explore">chunks that the Chunk community has built here.</a></p><div class="code-block code-block-17" >
@@ -11395,7 +11395,7 @@ border-radius: 80px;
 <h4><a href="https://codesandbox.io/embed/suspicious-architecture-l6mqlt?fontsize=14&amp;hidenavigation=1&amp;theme=dark">suspicious-architecture-l6mqlt</a></h4>
 <p>CodeSandbox is an online editor tailored for web applications.</p>
 </blockquote>
-<p><meta async="async" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"/></p>
+<p><script async="async" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"/></p>
 <p>Here’s the entire code for the <code>index.html</code> page:</p>
 <pre class="language-html hljs">&lt;!DOCTYPE html>
 &lt;html lang="en">
@@ -11662,7 +11662,7 @@ barba.init({
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -11683,7 +11683,7 @@ barba.init({
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-164523" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/create-smooth-page-transitions-barba-js/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/create-smooth-page-transitions-barba-js/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-164523" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/create-smooth-page-transitions-barba-js/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-164523" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/create-smooth-page-transitions-barba-js/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -11766,7 +11766,7 @@ April 11, 2023 </time></span>
 <p>Here is the final project:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="ibaslogic" data-slug-hash="ZEqzXwe" data-pen-title="Custom CSS range slider">See the Pen <a href="https://codepen.io/ibaslogic/pen/ZEqzXwe">Custom CSS range slider</a> by Ibadehin Mojeed (<a href="https://codepen.io/ibaslogic">@ibaslogic</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>You can interact with it, and after that, get started!</p>
 <h2 id="understanding-html-range-input-type">Understanding the HTML <code>range</code> input type</h2>
 <p>In its simplest form, an input element of type range will look like this:</p>
@@ -11796,7 +11796,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 <p>Let’s create a range slider that looks like the below with a CSS-only solution:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="ibaslogic" data-slug-hash="KKBLMxy" data-pen-title="Custom CSS range slider">See the Pen <a href="https://codepen.io/ibaslogic/pen/KKBLMxy">Custom CSS range slider</a> by Ibadehin Mojeed (<a href="https://codepen.io/ibaslogic">@ibaslogic</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>As we mentioned earlier, we’ll target the different slider parts to add a custom style. Since we don’t have access to the parts directly, we’ll capitalize on the various browser vendor prefixes.</p>
 <p>For instance, to customize the range slider for the WebKit and Blink-based browsers — like Safari, Chrome, Opera, and Edge — we’ll use the <code>::-webkit-slider-runnable-track</code> pseudo-element to target the slider track and the <code>::-webkit-slider-thumb</code> pseudo-element to target the thumb.</p>
 <p>For Mozilla Firefox, we’ll use <code>::-moz-range-track</code> pseudo-element to target the track and <code>::-moz-range-thumb</code> for the thumb.</p>
@@ -11992,7 +11992,7 @@ input[type="range"]::-moz-range-thumb {
 <p>With the addition of JavaScript, we’ll create a range slider that looks like so:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="ibaslogic" data-slug-hash="abjgwVG" data-pen-title="Custom CSS range slider">See the Pen <a href="https://codepen.io/ibaslogic/pen/abjgwVG">Custom CSS range slider</a> by Ibadehin Mojeed (<a href="https://codepen.io/ibaslogic">@ibaslogic</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>Due to the <code>overflow: hidden</code> and <code>box-shadow</code> tricks we used to customize the slider progress with the CSS-only solution, the slider thumb cannot be larger than the track, the way it’s shown below:</p>
 <p><img             class="aligncenter size-full wp-image-166893 jetpack-lazy-image" src="https://blog.logrocket.com/wp-content/uploads/2023/04/img10-Styled-thumb-JavaScript.png" alt="Styled Slider Thumb Displaying Larger Than Track Size Using Javascript" width="730" height="331"    /><noscript><img               class="aligncenter size-full wp-image-166893" src="https://blog.logrocket.com/wp-content/uploads/2023/04/img10-Styled-thumb-JavaScript.png" alt="Styled Slider Thumb Displaying Larger Than Track Size Using Javascript" width="730" height="331"  /></noscript></p>
 <p>To achieve the above design, we’ll modify the CSS style rules and apply a bit of JavaScript.</p>
@@ -12129,7 +12129,7 @@ sliderEl.addEventListener("input", (event) => {
 <p>Let’s get more creative and create a slider control using emoji or custom image as the thumb, like so:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="ibaslogic" data-slug-hash="GRYRgay" data-pen-title="Custom CSS range slider">See the Pen <a href="https://codepen.io/ibaslogic/pen/GRYRgay">Custom CSS range slider</a> by Ibadehin Mojeed (<a href="https://codepen.io/ibaslogic">@ibaslogic</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>On top of the last slider example, we’ll replace the background color that we applied on the thumb with a background image so that the thumb becomes an image rather than a colored circle:</p>
 <pre class="language-css hljs">/* Thumb: webkit */
 input[type="range"]::-webkit-slider-thumb {
@@ -12292,7 +12292,7 @@ April 7, 2023 </time></span>
 <p>You can see the output of the above code in this CodePen:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="_rahul" data-slug-hash="poZKxPz" data-pen-title="COLRv1 Fonts w/ CSS: A basic demo">See the Pen <a href="https://codepen.io/_rahul/pen/poZKxPz">COLRv1 Fonts w/ CSS: A basic demo</a> by Rahul C (<a href="https://codepen.io/_rahul">@_rahul</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>If you wish to select a different palette, you can use the <code>@font-palette-values</code> directive and specify the <code>base-palette</code> property. Naming the directive is as simple and straightforward as <a href="https://blog.logrocket.com/using-property-loosely-typed-css-custom-properties/">using CSS custom properties</a>:</p>
 <pre class="language-css hljs">@font-palette-values --nabla-2 {
   font-family: "Nabla";
@@ -12308,7 +12308,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 <p>The below demonstrates how the default color palette looks alongside a color palette variation of Nabla, another Color Font from the Google Fonts library:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="_rahul" data-slug-hash="bGjJZbE" data-pen-title="COLRv1 Fonts w/ multiple palettes">See the Pen <a href="https://codepen.io/_rahul/pen/bGjJZbE">COLRv1 Fonts w/ multiple palettes</a> by Rahul C (<a href="https://codepen.io/_rahul">@_rahul</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>Additionally, you can customize the colors of a given palette using the <code>override-colors</code> property, as demonstrated below:</p>
 <pre class="language-css hljs">@font-palette-values --custom-palette {
   font-family: 'Bungee Spice';
@@ -12318,7 +12318,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 <p>The demonstration below utilizes the <code>override-colors</code> property to alter the only palette supported by the Bungee Spice Font. Observe the difference between the default palette colors and the modified colors by commenting out the <code>override-colors</code> property:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="_rahul" data-slug-hash="abjPxzB" data-pen-title="Overriding palette colors in COLRv1 Fonts w/ CSS">See the Pen <a href="https://codepen.io/_rahul/pen/abjPxzB">Overriding palette colors in COLRv1 Fonts w/ CSS</a> by Rahul C (<a href="https://codepen.io/_rahul">@_rahul</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>It is important to note that both the <code>base-palette</code> and <code>override-colors</code> properties can only be used within the <code>@font-palette-values</code> directive.</p><div class="code-block code-block-57" >
 <hr/>
 <div >
@@ -12401,7 +12401,7 @@ border-radius: 80px;
 <p>You can see the output below:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="_rahul" data-slug-hash="jOpdOae" data-pen-title="COLRv1 Fonts in Light/Dark Modes">See the Pen <a href="https://codepen.io/_rahul/pen/jOpdOae">COLRv1 Fonts in Light/Dark Modes</a> by Rahul C (<a href="https://codepen.io/_rahul">@_rahul</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <p>If you previously utilized the <code>prefers-color-scheme</code> media feature to automatically switch color schemes based on the device’s color mode, then this process should be relatively straightforward. Verify the above implementation by enabling and disabling the dark mode on your device.</p>
 <p>If you choose not to use the <code>prefers-color-scheme</code> feature for automatic dark mode activation, you can specify different color states as demonstrated below and utilize simple JavaScript to toggle between these states upon clicking a button or toggling a checkbox:</p>
 <pre class="language-css hljs">@font-palette-values --custom-palette {
@@ -12421,7 +12421,7 @@ on <a href="https://codepen.io">CodePen</a>.</p>
 <p>Try using the range slider in the demo below to see it in action:</p>
 <p class="codepen"  data-height="500" data-theme-id="0" data-default-tab="result" data-user="_rahul" data-slug-hash="yLqGwqW" data-pen-title="Interactive demo of COLRv1 Fonts w/ multiple palettes">See the Pen <a href="https://codepen.io/_rahul/pen/yLqGwqW">Interactive demo of COLRv1 Fonts w/ multiple palettes</a> by Rahul C (<a href="https://codepen.io/_rahul">@_rahul</a>)<br/>
 on <a href="https://codepen.io">CodePen</a>.</p>
-<p><meta async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
+<p><script async="async" src="https://static.codepen.io/assets/embed/ei.js"/></p>
 <h2 id="caveats-using-colrv1-custom-css-typography">Caveats to consider while using COLRv1 for custom CSS typography</h2>
 <p>Unfortunately, the availability of color fonts is still limited, and the options available may not align with your user interface requirements.</p>
 <p>Additionally, the lack of information about available color palettes from various font libraries makes it necessary to invest extra time and effort to find this information, often through the use of <a href="https://wakamaifondue.com/">tools like Wakamai Fondue</a>:</p>
@@ -13886,7 +13886,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -13907,7 +13907,7 @@ border-radius: 80px;
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-168424" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/exploring-best-graphql-data-visualization-tools/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/exploring-best-graphql-data-visualization-tools/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-168424" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/exploring-best-graphql-data-visualization-tools/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-168424" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/exploring-best-graphql-data-visualization-tools/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -16400,7 +16400,7 @@ export default {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -16421,7 +16421,7 @@ export default {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-164823" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/add-dynamic-styling-class-names-vue-js/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/add-dynamic-styling-class-names-vue-js/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-164823" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/add-dynamic-styling-class-names-vue-js/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-164823" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/add-dynamic-styling-class-names-vue-js/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -17446,7 +17446,7 @@ websocketServer.on('connection', (socket) => {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -17467,7 +17467,7 @@ websocketServer.on('connection', (socket) => {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-160719" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/build-real-time-vue-app-websockets/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/build-real-time-vue-app-websockets/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-160719" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/build-real-time-vue-app-websockets/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-160719" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/build-real-time-vue-app-websockets/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -18630,7 +18630,7 @@ Mamta Dalal <span class="btn follow">Follow</span></a>
 <iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=217016018&amp;postid=167762&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;jetpack_comments_nonce=65852d7ab1&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_US&amp;jetpack_version=12.0&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;token_key=%3Bnormal%3B&amp;sig=678d3e7da4efdd07df2959b11da2665b9f8b6d0d#parent=https%3A%2F%2Fblog.logrocket.com%2Ffix-nullpointerexception-android%2F" name="jetpack_remote_comment"  class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups">
 									</iframe>
 <!--[if !IE]><!-->
-<meta>
+<script>
 						document.addEventListener('DOMContentLoaded', function () {
 							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
 							for (var i = 0; i &lt; commentForms.length; i++) {
@@ -18638,7 +18638,7 @@ Mamta Dalal <span class="btn follow">Follow</span></a>
 								commentForms[i].scrolling = 'no';
 							}
 						});
-					</meta>
+					</script>
 <!--<![endif]-->
 </form>
 </div>
@@ -18668,7 +18668,7 @@ Mamta Dalal <span class="btn follow">Follow</span></a>
 </a>
 </footer>
 </div>
-<meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>window.onload = function() {
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>window.onload = function() {
   if (typeof hljs !== 'undefined')
   {
   document.querySelectorAll('pre').forEach((block) => {
@@ -18692,7 +18692,7 @@ jQuery(".aretags li a:contains('archive')").parent('li').hide();
 jQuery(".aretags li a:contains('86919')").parent('li').hide();
 jQuery(".aretags li a:contains('72293')").parent('li').hide();
 jQuery(".aretags li a:contains('custom-plug')").parent('li').hide();
-};</meta> <div >
+};</script> <div >
 <div class="grofile-hash-map-5d7903c4a4c3446b1f2c9ded08ae0353">
 </div>
 <div class="grofile-hash-map-de8225213d7b8bc59895625735574f7d">
@@ -18844,26 +18844,26 @@ jQuery(".aretags li a:contains('custom-plug')").parent('li').hide();
 </div>
 </div>
 </div>
-<meta type="text/javascript">
+<script type="text/javascript">
 		window.WPCOM_sharing_counts = {"http:\/\/blog.logrocket.com\/fix-nullpointerexception-android\/":167762};
-	</meta>
+	</script>
 <link rel="stylesheet" id="all-css-0" href="https://blog.logrocket.com/_static/??-eJytkcFOw0AMRH8IxyQIlAviW5aN27p4vau1rah/T0CECxxaxNWeeTOWcW2QqzqpYwloEkdWwzN5S/kNxmm4x1KXEDLMqdcwErSVG3V4DV2Ehmx2h3/B7Nt98E1izRLLh9QMl2Qn3tg2FNYfYXuSsp4THGovhsmM/MvM1iRdoDZW3hggfDz5rZTDJoO0ktVC17aAEuIMLXX/n0JgfhHCzVzDfz3SvEf26J8veSnP49M8PU4P4zy/A8Motq0=" type="text/css" media="all"/>
-<meta id="code-prettify-js-before">
+<script id="code-prettify-js-before">
 var codePrettifyLoaderBaseUrl = "https:\/\/blog.logrocket.com\/wp-content\/plugins\/code-prettify\/prettify";
-</meta>
-<meta src="https://blog.logrocket.com/wp-content/plugins/code-prettify/prettify/run_prettify.js?ver=1.4.0" id="code-prettify-js"/>
-<meta src="https://secure.gravatar.com/js/gprofiles.js?ver=202317" id="grofiles-cards-js"/>
-<meta id="wpgroho-js-extra">
+</script>
+<script src="https://blog.logrocket.com/wp-content/plugins/code-prettify/prettify/run_prettify.js?ver=1.4.0" id="code-prettify-js"/>
+<script src="https://secure.gravatar.com/js/gprofiles.js?ver=202317" id="grofiles-cards-js"/>
+<script id="wpgroho-js-extra">
 var WPGroHo = {"my_hash":""};
-</meta>
-<meta id="jetpack-lazy-images-js-extra">
+</script>
+<script id="jetpack-lazy-images-js-extra">
 var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
-</meta>
-<meta id="jetpack-carousel-js-extra">
+</script>
+<script id="jetpack-carousel-js-extra">
 var jetpackSwiperLibraryPath = {"url":"https:\/\/blog.logrocket.com\/wp-content\/mu-plugins\/jetpack-12.0\/_inc\/build\/carousel\/swiper-bundle.min.js"};
 var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","nonce":"84e2b202f1","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size &lt;span class=\"photo-size\">{0}&lt;span class=\"photo-size-times\">\u00d7&lt;\/span>{1}&lt;\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/blog.logrocket.com\/wp-login.php?redirect_to=http%3A%2F%2Fblog.logrocket.com%2Ffix-nullpointerexception-android%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
-</meta>
-<meta id="nf-front-end-js-extra">
+</script>
+<script id="nf-front-end-js-extra">
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
@@ -18874,19 +18874,19 @@ var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a v
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
-</meta>
-<meta id="nf-mp-front-end-js-extra">
+</script>
+<script id="nf-mp-front-end-js-extra">
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
-</meta>
-<meta type="text/javascript" src="https://blog.logrocket.com/_static/??-eJy1UdFuwjAM/KGloaBNvEz7FJQmprgkceQ4VN3XL0wDVRpMVGiPtu/O9p0ek7IUBaLoUFTypceY9QCSjD2qdt2sdCBXPGQ9pp7pQM2QX/SMJgcIdRrAYQmYD9rkDFI1shaoQ24CxgWkjkiysEkLeQjtSp0QxkQsqiu9GomPhqlEt0AmmEyRpyYde7fwgmvvwsFofXHwPbQUQuUrhuSnW8L37P8pdieIjlibIhSMCNorzJvPSWEwfd3kMIvGqsgZrCBFRV0GPtUY/m/frPHoll31RncFvdP2nFEGfwVcGnOX5lbWQOt7lhjuIboq01GEWz5fzokYB6P2xCHPM8So91yhqr6vHKRfHy3gP0A9zxyegzL+KZ1QvKBKhuUZlSyTh5rnREX+OucjvLdv2/XretNut8MXlIuaKg=="/><meta id="sharing-js-js-extra">
+</script>
+<script type="text/javascript" src="https://blog.logrocket.com/_static/??-eJy1UdFuwjAM/KGloaBNvEz7FJQmprgkceQ4VN3XL0wDVRpMVGiPtu/O9p0ek7IUBaLoUFTypceY9QCSjD2qdt2sdCBXPGQ9pp7pQM2QX/SMJgcIdRrAYQmYD9rkDFI1shaoQ24CxgWkjkiysEkLeQjtSp0QxkQsqiu9GomPhqlEt0AmmEyRpyYde7fwgmvvwsFofXHwPbQUQuUrhuSnW8L37P8pdieIjlibIhSMCNorzJvPSWEwfd3kMIvGqsgZrCBFRV0GPtUY/m/frPHoll31RncFvdP2nFEGfwVcGnOX5lbWQOt7lhjuIboq01GEWz5fzokYB6P2xCHPM8So91yhqr6vHKRfHy3gP0A9zxyegzL+KZ1QvKBKhuUZlSyTh5rnREX+OucjvLdv2/XretNut8MXlIuaKg=="/><script id="sharing-js-js-extra">
 var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
-</meta>
-<meta src="https://blog.logrocket.com/wp-content/mu-plugins/jetpack-12.0/_inc/build/sharedaddy/sharing.min.js?ver=12.0" id="sharing-js-js"/>
-<meta id="sharing-js-js-after">
+</script>
+<script src="https://blog.logrocket.com/wp-content/mu-plugins/jetpack-12.0/_inc/build/sharedaddy/sharing.min.js?ver=12.0" id="sharing-js-js"/>
+<script id="sharing-js-js-after">
 var windowOpen;
 			( function () {
 				function matches( el, sel ) {
@@ -18986,16 +18986,16 @@ var windowOpen;
 					}
 				} );
 			} )();
-</meta>
+</script>
 <!--[if IE]>
-		<meta type="text/javascript">
+		<script type="text/javascript">
 			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
 				// window.location.reload() doesn't respect the Hash in IE
 				window.location.hash = window.location.hash;
 			}
-		</meta>
+		</script>
 		<![endif]-->
-<meta type="text/javascript">
+<script type="text/javascript">
 			(function () {
 				var comm_par_el = document.getElementById( 'comment_parent' ),
 					comm_par = ( comm_par_el &amp;&amp; comm_par_el.value ) ? comm_par_el.value : '',
@@ -19077,13 +19077,13 @@ var windowOpen;
 				})
 
 			})();
-		</meta>
-<meta src="https://stats.wp.com/e-202317.js" defer="defer"/>
-<meta>
+		</script>
+<script src="https://stats.wp.com/e-202317.js" defer="defer"/>
+<script>
 		_stq = window._stq || [];
 		_stq.push([ 'view', {v:'ext',blog:'217016018',post:'167762',tz:'-4',srv:'blog.logrocket.com',hp:'vip',j:'1:12.0'} ]);
 		_stq.push([ 'clickTrackerInit', '217016018', '167762' ]);
-	</meta><meta id="tmpl-nf-layout" type="text/template">
+	</script><script id="tmpl-nf-layout" type="text/template">
 	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
 		{{{ ( 1 == data.settings.show_title ) ? '&lt;h' + data.settings.form_title_heading_level + '>' + data.settings.title + '' : '' }}}
 	</span>
@@ -19094,27 +19094,27 @@ var windowOpen;
 		<div class="nf-form-layout"/>
 		<div class="nf-after-form"/>
 	</div>
-</meta>
-<meta id="tmpl-nf-empty" type="text/template">
+</script>
+<script id="tmpl-nf-empty" type="text/template">
 
-</meta>
-<meta id="tmpl-nf-before-form" type="text/template">
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
 	{{{ data.beforeForm }}}
-</meta><meta id="tmpl-nf-after-form" type="text/template">
+</script><script id="tmpl-nf-after-form" type="text/template">
 	{{{ data.afterForm }}}
-</meta><meta id="tmpl-nf-before-fields" type="text/template">
+</script><script id="tmpl-nf-before-fields" type="text/template">
     <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
     {{{ data.beforeFields }}}
-</meta><meta id="tmpl-nf-after-fields" type="text/template">
+</script><script id="tmpl-nf-after-fields" type="text/template">
     {{{ data.afterFields }}}
     <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"/>
     <div class="nf-form-hp"/>
-</meta>
-<meta id="tmpl-nf-before-field" type="text/template">
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
     {{{ data.beforeField }}}
-</meta><meta id="tmpl-nf-after-field" type="text/template">
+</script><script id="tmpl-nf-after-field" type="text/template">
     {{{ data.afterField }}}
-</meta><meta id="tmpl-nf-form-layout" type="text/template">
+</script><script id="tmpl-nf-form-layout" type="text/template">
 	<form>
 		<div>
 			<div class="nf-before-form-content"/>
@@ -19122,22 +19122,22 @@ var windowOpen;
 			<div class="nf-after-form-content"/>
 		</div>
 	</form>
-</meta><meta id="tmpl-nf-form-hp" type="text/template">
+</script><script id="tmpl-nf-form-hp" type="text/template">
 	<label id="nf-label-field-hp-{{{ data.id }}}" for="nf-field-hp-{{{ data.id }}}" >
 		{{{ nfi18n.formHoneypot }}}
 		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value="" aria-labelledby="nf-label-field-hp-{{{ data.id }}}"/>
 	</label>
-</meta>
-<meta id="tmpl-nf-field-layout" type="text/template">
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
     <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
         <div class="nf-before-field"/>
         <div class="nf-field"/>
         <div class="nf-after-field"/>
     </div>
-</meta>
-<meta id="tmpl-nf-field-before" type="text/template">
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
     {{{ data.beforeField }}}
-</meta><meta id="tmpl-nf-field-after" type="text/template">
+</script><script id="tmpl-nf-field-after" type="text/template">
     &lt;#
     /*
      * Render our input limit section if that setting exists.
@@ -19156,8 +19156,8 @@ var windowOpen;
      */
     #>
     {{{ data.afterField }}}
-</meta>
-<meta id="tmpl-nf-field-wrap" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
 	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
 		&lt;#
 		/*
@@ -19184,21 +19184,21 @@ var windowOpen;
         #>
 		{{{ data.renderDescText() }}}
 	</div>
-</meta>
-<meta id="tmpl-nf-field-wrap-no-label" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
     <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
         <div class="nf-field-label"/>
         <div class="nf-field-element">{{{ data.renderElement() }}}</div>
         <div class="nf-error-wrap"/>
     </div>
-</meta>
-<meta id="tmpl-nf-field-wrap-no-container" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
 
         {{{ data.renderElement() }}}
 
         <div class="nf-error-wrap"/>
-</meta>
-<meta id="tmpl-nf-field-label" type="text/template">
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
 	<div class="nf-field-label">
 		&lt;# if ( data.type === "listcheckbox" || data.type === "listradio" ) { #>
 			<span id="nf-label-field-{{{ data.id }}}" class="nf-label-span {{{ data.renderLabelClasses() }}}">
@@ -19212,20 +19212,20 @@ var windowOpen;
 			</label>
 		&lt;# } #>
 	</div>
-</meta>
-<meta id="tmpl-nf-field-error" type="text/template">
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
 	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
-</meta><meta id="tmpl-nf-form-error" type="text/template">
+</script><script id="tmpl-nf-form-error" type="text/template">
 	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
-</meta><meta id="tmpl-nf-field-input-limit" type="text/template">
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
     {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
-</meta><meta id="tmpl-nf-field-null" type="text/template">
-</meta><meta id="tmpl-nf-field-listcheckbox" type="text/template">
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-listcheckbox" type="text/template">
     <ul >
         {{{ data.renderOptions() }}}
     </ul>
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-option" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-option" type="text/template">
     &lt;# if ( ! data.visible ) { return '' } #>
     <li>
         &lt;input type="checkbox" id="nf-field-{{{ data.fieldID }}}-{{{ data.index }}}" name="nf-field-{{{ data.fieldID }}}" class="{{{ data.classes }}} nf-element {{{ ( data.isSelected ) ? ' nf-checked' : '' }}}" value="{{{ data.value }}}" {{{ ( data.isSelected ) ? 'checked="checked"' : '' }}}
@@ -19236,8 +19236,8 @@ var windowOpen;
         >
         <label for="nf-field-{{{ data.fieldID }}}-{{{ data.index }}}" id="nf-label-field-{{{ data.fieldID }}}-{{{ data.index }}}" class="{{{ ( data.isSelected ) ? 'nf-checked-label' : '' }}}">{{{ data.label }}}</label>
     </li>
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-other" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-other" type="text/template">
     &lt;li {{{ ( ! data.visible ) ? '' : '' }}}>
         &lt;input type="checkbox"
                id="nf-field-{{{ data.fieldID }}}-other"
@@ -19251,24 +19251,24 @@ var windowOpen;
             {{{ data.renderOtherText() }}}
         </label>
     
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-other-text" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-other-text" type="text/template">
     <input type="text" name="nf-field-{{{ data.fieldID }}}" class="nf-element" value="{{{ data.currentValue }}}"/>
-</meta>
-<meta id="tmpl-nf-field-input" type="text/template">
+</script>
+<script id="tmpl-nf-field-input" type="text/template">
     &lt;input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false"  class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ _.escape( data.value ) }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
            aria-labelledby="nf-label-field-{{{ data.id }}}"
 
             {{{ data.maybeRequired() }}}
     >
-</meta>
-<meta id="tmpl-nf-field-submit" type="text/template">
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
 	&lt;input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="{{{data.type}}}" value="{{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}" {{{ ( data.disabled ) ? 'aria-disabled="true"' : '' }}}>
-</meta><meta id="tmpl-nf-field-button" type="text/template">
+</script><script id="tmpl-nf-field-button" type="text/template">
     <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
         {{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}
     </button>
-</meta><meta>
+</script><script>
 function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e&lt;&lt;16|h&lt;&lt;8|k;e=63&amp;d>>18;h=63&amp;d>>12;k=63&amp;d>>6;d&amp;=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c&lt;
 a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g&lt;&lt;6)+b,e+=6;8&lt;=e;)((l=255&amp;g>>>(e-=8))||d-2>c)&amp;&amp;(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
 b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
@@ -19358,7 +19358,7 @@ ai_insert ('after', '.site-content', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2Rl
 };
 if (document.readyState === 'complete' || (document.readyState !== 'loading' &amp;&amp; !document.documentElement.doScroll)) ai_run_657649508056 (); else document.addEventListener ('DOMContentLoaded', ai_run_657649508056);
 ai_js_code = true;
-</meta>
+</script>
 
 </p></li></ol></li></ol></article></div>
 ]]></content:encoded>
@@ -21335,7 +21335,7 @@ ignored: directory (1)
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -21356,7 +21356,7 @@ ignored: directory (1)
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-168326" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/hybrid-rendering-astro-guide/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/hybrid-rendering-astro-guide/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-168326" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/hybrid-rendering-astro-guide/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-168326" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/hybrid-rendering-astro-guide/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -24015,7 +24015,7 @@ fn main() {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -24036,7 +24036,7 @@ fn main() {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-167629" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/plotting-rust-projects-plotly/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/plotting-rust-projects-plotly/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-167629" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/plotting-rust-projects-plotly/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-167629" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/plotting-rust-projects-plotly/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -25083,7 +25083,7 @@ export default defineComponent({
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -25104,7 +25104,7 @@ export default defineComponent({
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-164710" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/promise-handling-complex-modals-vue-3/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/promise-handling-complex-modals-vue-3/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-164710" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/promise-handling-complex-modals-vue-3/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-164710" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/promise-handling-complex-modals-vue-3/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -27415,7 +27415,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -27436,7 +27436,7 @@ border-radius: 80px;
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-165991" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/guide-signal-handling-rust/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/guide-signal-handling-rust/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-165991" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/guide-signal-handling-rust/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-165991" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/guide-signal-handling-rust/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -30109,7 +30109,7 @@ export * from "./index_bg.js";
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -30130,7 +30130,7 @@ export * from "./index_bg.js";
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-168021" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/understanding-cloudflare-workers-rust/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/understanding-cloudflare-workers-rust/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-168021" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/understanding-cloudflare-workers-rust/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-168021" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/understanding-cloudflare-workers-rust/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -30460,7 +30460,7 @@ if input.state == glutin::event::ElementState::Pressed {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -30481,7 +30481,7 @@ if input.state == glutin::event::ElementState::Pressed {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-167007" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/understanding-opengl-basics-rust/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/understanding-opengl-basics-rust/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-167007" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/understanding-opengl-basics-rust/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-167007" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/understanding-opengl-basics-rust/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -30728,7 +30728,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -30749,7 +30749,7 @@ border-radius: 80px;
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-167597" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/understanding-handling-rust-mutex-poisoning/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/understanding-handling-rust-mutex-poisoning/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-167597" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/understanding-handling-rust-mutex-poisoning/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-167597" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/understanding-handling-rust-mutex-poisoning/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -31330,7 +31330,7 @@ export default {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -31351,7 +31351,7 @@ export default {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-165734" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/understanding-slots-vue-js/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/understanding-slots-vue-js/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-165734" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/understanding-slots-vue-js/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-165734" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/understanding-slots-vue-js/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -32183,7 +32183,7 @@ Abhinav Anshul <span class="btn follow">Follow</span></a>
 <iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=217016018&amp;postid=167269&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;jetpack_comments_nonce=0d40d047df&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_US&amp;jetpack_version=12.0&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;token_key=%3Bnormal%3B&amp;sig=5dce6df1a6ce1a9f98819b44545923016dc26515#parent=https%3A%2F%2Fblog.logrocket.com%2Funderstanding-prioritize-react-ui-updates%2F" name="jetpack_remote_comment"  class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups">
 									</iframe>
 <!--[if !IE]><!-->
-<meta>
+<script>
 						document.addEventListener('DOMContentLoaded', function () {
 							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
 							for (var i = 0; i &lt; commentForms.length; i++) {
@@ -32191,7 +32191,7 @@ Abhinav Anshul <span class="btn follow">Follow</span></a>
 								commentForms[i].scrolling = 'no';
 							}
 						});
-					</meta>
+					</script>
 <!--<![endif]-->
 </form>
 </div>
@@ -32221,7 +32221,7 @@ Abhinav Anshul <span class="btn follow">Follow</span></a>
 </a>
 </footer>
 </div>
-<meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>window.onload = function() {
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>window.onload = function() {
   if (typeof hljs !== 'undefined')
   {
   document.querySelectorAll('pre').forEach((block) => {
@@ -32245,7 +32245,7 @@ jQuery(".aretags li a:contains('archive')").parent('li').hide();
 jQuery(".aretags li a:contains('86919')").parent('li').hide();
 jQuery(".aretags li a:contains('72293')").parent('li').hide();
 jQuery(".aretags li a:contains('custom-plug')").parent('li').hide();
-};</meta> <div >
+};</script> <div >
 <div class="grofile-hash-map-db444cbbe8864f2a546c35938a911bd5">
 </div>
 <div class="grofile-hash-map-de8225213d7b8bc59895625735574f7d">
@@ -32397,26 +32397,26 @@ jQuery(".aretags li a:contains('custom-plug')").parent('li').hide();
 </div>
 </div>
 </div>
-<meta type="text/javascript">
+<script type="text/javascript">
 		window.WPCOM_sharing_counts = {"http:\/\/blog.logrocket.com\/understanding-prioritize-react-ui-updates\/":167269};
-	</meta>
+	</script>
 <link rel="stylesheet" id="all-css-0" href="https://blog.logrocket.com/_static/??-eJytkcFOw0AMRH8IxyQIlAviW5aN27p4vau1rah/T0CECxxaxNWeeTOWcW2QqzqpYwloEkdWwzN5S/kNxmm4x1KXEDLMqdcwErSVG3V4DV2Ehmx2h3/B7Nt98E1izRLLh9QMl2Qn3tg2FNYfYXuSsp4THGovhsmM/MvM1iRdoDZW3hggfDz5rZTDJoO0ktVC17aAEuIMLXX/n0JgfhHCzVzDfz3SvEf26J8veSnP49M8PU4P4zy/A8Motq0=" type="text/css" media="all"/>
-<meta id="code-prettify-js-before">
+<script id="code-prettify-js-before">
 var codePrettifyLoaderBaseUrl = "https:\/\/blog.logrocket.com\/wp-content\/plugins\/code-prettify\/prettify";
-</meta>
-<meta src="https://blog.logrocket.com/wp-content/plugins/code-prettify/prettify/run_prettify.js?ver=1.4.0" id="code-prettify-js"/>
-<meta src="https://secure.gravatar.com/js/gprofiles.js?ver=202317" id="grofiles-cards-js"/>
-<meta id="wpgroho-js-extra">
+</script>
+<script src="https://blog.logrocket.com/wp-content/plugins/code-prettify/prettify/run_prettify.js?ver=1.4.0" id="code-prettify-js"/>
+<script src="https://secure.gravatar.com/js/gprofiles.js?ver=202317" id="grofiles-cards-js"/>
+<script id="wpgroho-js-extra">
 var WPGroHo = {"my_hash":""};
-</meta>
-<meta id="jetpack-lazy-images-js-extra">
+</script>
+<script id="jetpack-lazy-images-js-extra">
 var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
-</meta>
-<meta id="jetpack-carousel-js-extra">
+</script>
+<script id="jetpack-carousel-js-extra">
 var jetpackSwiperLibraryPath = {"url":"https:\/\/blog.logrocket.com\/wp-content\/mu-plugins\/jetpack-12.0\/_inc\/build\/carousel\/swiper-bundle.min.js"};
 var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","nonce":"84e2b202f1","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size &lt;span class=\"photo-size\">{0}&lt;span class=\"photo-size-times\">\u00d7&lt;\/span>{1}&lt;\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/blog.logrocket.com\/wp-login.php?redirect_to=http%3A%2F%2Fblog.logrocket.com%2Funderstanding-prioritize-react-ui-updates%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
-</meta>
-<meta id="nf-front-end-js-extra">
+</script>
+<script id="nf-front-end-js-extra">
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
@@ -32427,19 +32427,19 @@ var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a v
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
-</meta>
-<meta id="nf-mp-front-end-js-extra">
+</script>
+<script id="nf-mp-front-end-js-extra">
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
-</meta>
-<meta type="text/javascript" src="https://blog.logrocket.com/_static/??-eJy1UdFuwjAM/KGloaBNvEz7FJQmprgkceQ4VN3XL0wDVRpMVGiPtu/O9p0ek7IUBaLoUFTypceY9QCSjD2qdt2sdCBXPGQ9pp7pQM2QX/SMJgcIdRrAYQmYD9rkDFI1shaoQ24CxgWkjkiysEkLeQjtSp0QxkQsqiu9GomPhqlEt0AmmEyRpyYde7fwgmvvwsFofXHwPbQUQuUrhuSnW8L37P8pdieIjlibIhSMCNorzJvPSWEwfd3kMIvGqsgZrCBFRV0GPtUY/m/frPHoll31RncFvdP2nFEGfwVcGnOX5lbWQOt7lhjuIboq01GEWz5fzokYB6P2xCHPM8So91yhqr6vHKRfHy3gP0A9zxyegzL+KZ1QvKBKhuUZlSyTh5rnREX+OucjvLdv2/XretNut8MXlIuaKg=="/><meta id="sharing-js-js-extra">
+</script>
+<script type="text/javascript" src="https://blog.logrocket.com/_static/??-eJy1UdFuwjAM/KGloaBNvEz7FJQmprgkceQ4VN3XL0wDVRpMVGiPtu/O9p0ek7IUBaLoUFTypceY9QCSjD2qdt2sdCBXPGQ9pp7pQM2QX/SMJgcIdRrAYQmYD9rkDFI1shaoQ24CxgWkjkiysEkLeQjtSp0QxkQsqiu9GomPhqlEt0AmmEyRpyYde7fwgmvvwsFofXHwPbQUQuUrhuSnW8L37P8pdieIjlibIhSMCNorzJvPSWEwfd3kMIvGqsgZrCBFRV0GPtUY/m/frPHoll31RncFvdP2nFEGfwVcGnOX5lbWQOt7lhjuIboq01GEWz5fzokYB6P2xCHPM8So91yhqr6vHKRfHy3gP0A9zxyegzL+KZ1QvKBKhuUZlSyTh5rnREX+OucjvLdv2/XretNut8MXlIuaKg=="/><script id="sharing-js-js-extra">
 var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
-</meta>
-<meta src="https://blog.logrocket.com/wp-content/mu-plugins/jetpack-12.0/_inc/build/sharedaddy/sharing.min.js?ver=12.0" id="sharing-js-js"/>
-<meta id="sharing-js-js-after">
+</script>
+<script src="https://blog.logrocket.com/wp-content/mu-plugins/jetpack-12.0/_inc/build/sharedaddy/sharing.min.js?ver=12.0" id="sharing-js-js"/>
+<script id="sharing-js-js-after">
 var windowOpen;
 			( function () {
 				function matches( el, sel ) {
@@ -32539,16 +32539,16 @@ var windowOpen;
 					}
 				} );
 			} )();
-</meta>
+</script>
 <!--[if IE]>
-		<meta type="text/javascript">
+		<script type="text/javascript">
 			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
 				// window.location.reload() doesn't respect the Hash in IE
 				window.location.hash = window.location.hash;
 			}
-		</meta>
+		</script>
 		<![endif]-->
-<meta type="text/javascript">
+<script type="text/javascript">
 			(function () {
 				var comm_par_el = document.getElementById( 'comment_parent' ),
 					comm_par = ( comm_par_el &amp;&amp; comm_par_el.value ) ? comm_par_el.value : '',
@@ -32630,13 +32630,13 @@ var windowOpen;
 				})
 
 			})();
-		</meta>
-<meta src="https://stats.wp.com/e-202317.js" defer="defer"/>
-<meta>
+		</script>
+<script src="https://stats.wp.com/e-202317.js" defer="defer"/>
+<script>
 		_stq = window._stq || [];
 		_stq.push([ 'view', {v:'ext',blog:'217016018',post:'167269',tz:'-4',srv:'blog.logrocket.com',hp:'vip',j:'1:12.0'} ]);
 		_stq.push([ 'clickTrackerInit', '217016018', '167269' ]);
-	</meta><meta id="tmpl-nf-layout" type="text/template">
+	</script><script id="tmpl-nf-layout" type="text/template">
 	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
 		{{{ ( 1 == data.settings.show_title ) ? '&lt;h' + data.settings.form_title_heading_level + '>' + data.settings.title + '' : '' }}}
 	</span>
@@ -32647,27 +32647,27 @@ var windowOpen;
 		<div class="nf-form-layout"/>
 		<div class="nf-after-form"/>
 	</div>
-</meta>
-<meta id="tmpl-nf-empty" type="text/template">
+</script>
+<script id="tmpl-nf-empty" type="text/template">
 
-</meta>
-<meta id="tmpl-nf-before-form" type="text/template">
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
 	{{{ data.beforeForm }}}
-</meta><meta id="tmpl-nf-after-form" type="text/template">
+</script><script id="tmpl-nf-after-form" type="text/template">
 	{{{ data.afterForm }}}
-</meta><meta id="tmpl-nf-before-fields" type="text/template">
+</script><script id="tmpl-nf-before-fields" type="text/template">
     <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
     {{{ data.beforeFields }}}
-</meta><meta id="tmpl-nf-after-fields" type="text/template">
+</script><script id="tmpl-nf-after-fields" type="text/template">
     {{{ data.afterFields }}}
     <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"/>
     <div class="nf-form-hp"/>
-</meta>
-<meta id="tmpl-nf-before-field" type="text/template">
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
     {{{ data.beforeField }}}
-</meta><meta id="tmpl-nf-after-field" type="text/template">
+</script><script id="tmpl-nf-after-field" type="text/template">
     {{{ data.afterField }}}
-</meta><meta id="tmpl-nf-form-layout" type="text/template">
+</script><script id="tmpl-nf-form-layout" type="text/template">
 	<form>
 		<div>
 			<div class="nf-before-form-content"/>
@@ -32675,22 +32675,22 @@ var windowOpen;
 			<div class="nf-after-form-content"/>
 		</div>
 	</form>
-</meta><meta id="tmpl-nf-form-hp" type="text/template">
+</script><script id="tmpl-nf-form-hp" type="text/template">
 	<label id="nf-label-field-hp-{{{ data.id }}}" for="nf-field-hp-{{{ data.id }}}" >
 		{{{ nfi18n.formHoneypot }}}
 		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value="" aria-labelledby="nf-label-field-hp-{{{ data.id }}}"/>
 	</label>
-</meta>
-<meta id="tmpl-nf-field-layout" type="text/template">
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
     <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
         <div class="nf-before-field"/>
         <div class="nf-field"/>
         <div class="nf-after-field"/>
     </div>
-</meta>
-<meta id="tmpl-nf-field-before" type="text/template">
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
     {{{ data.beforeField }}}
-</meta><meta id="tmpl-nf-field-after" type="text/template">
+</script><script id="tmpl-nf-field-after" type="text/template">
     &lt;#
     /*
      * Render our input limit section if that setting exists.
@@ -32709,8 +32709,8 @@ var windowOpen;
      */
     #>
     {{{ data.afterField }}}
-</meta>
-<meta id="tmpl-nf-field-wrap" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
 	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
 		&lt;#
 		/*
@@ -32737,21 +32737,21 @@ var windowOpen;
         #>
 		{{{ data.renderDescText() }}}
 	</div>
-</meta>
-<meta id="tmpl-nf-field-wrap-no-label" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
     <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
         <div class="nf-field-label"/>
         <div class="nf-field-element">{{{ data.renderElement() }}}</div>
         <div class="nf-error-wrap"/>
     </div>
-</meta>
-<meta id="tmpl-nf-field-wrap-no-container" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
 
         {{{ data.renderElement() }}}
 
         <div class="nf-error-wrap"/>
-</meta>
-<meta id="tmpl-nf-field-label" type="text/template">
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
 	<div class="nf-field-label">
 		&lt;# if ( data.type === "listcheckbox" || data.type === "listradio" ) { #>
 			<span id="nf-label-field-{{{ data.id }}}" class="nf-label-span {{{ data.renderLabelClasses() }}}">
@@ -32765,20 +32765,20 @@ var windowOpen;
 			</label>
 		&lt;# } #>
 	</div>
-</meta>
-<meta id="tmpl-nf-field-error" type="text/template">
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
 	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
-</meta><meta id="tmpl-nf-form-error" type="text/template">
+</script><script id="tmpl-nf-form-error" type="text/template">
 	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
-</meta><meta id="tmpl-nf-field-input-limit" type="text/template">
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
     {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
-</meta><meta id="tmpl-nf-field-null" type="text/template">
-</meta><meta id="tmpl-nf-field-listcheckbox" type="text/template">
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-listcheckbox" type="text/template">
     <ul >
         {{{ data.renderOptions() }}}
     </ul>
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-option" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-option" type="text/template">
     &lt;# if ( ! data.visible ) { return '' } #>
     <li>
         &lt;input type="checkbox" id="nf-field-{{{ data.fieldID }}}-{{{ data.index }}}" name="nf-field-{{{ data.fieldID }}}" class="{{{ data.classes }}} nf-element {{{ ( data.isSelected ) ? ' nf-checked' : '' }}}" value="{{{ data.value }}}" {{{ ( data.isSelected ) ? 'checked="checked"' : '' }}}
@@ -32789,8 +32789,8 @@ var windowOpen;
         >
         <label for="nf-field-{{{ data.fieldID }}}-{{{ data.index }}}" id="nf-label-field-{{{ data.fieldID }}}-{{{ data.index }}}" class="{{{ ( data.isSelected ) ? 'nf-checked-label' : '' }}}">{{{ data.label }}}</label>
     </li>
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-other" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-other" type="text/template">
     &lt;li {{{ ( ! data.visible ) ? '' : '' }}}>
         &lt;input type="checkbox"
                id="nf-field-{{{ data.fieldID }}}-other"
@@ -32804,24 +32804,24 @@ var windowOpen;
             {{{ data.renderOtherText() }}}
         </label>
     
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-other-text" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-other-text" type="text/template">
     <input type="text" name="nf-field-{{{ data.fieldID }}}" class="nf-element" value="{{{ data.currentValue }}}"/>
-</meta>
-<meta id="tmpl-nf-field-input" type="text/template">
+</script>
+<script id="tmpl-nf-field-input" type="text/template">
     &lt;input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false"  class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ _.escape( data.value ) }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
            aria-labelledby="nf-label-field-{{{ data.id }}}"
 
             {{{ data.maybeRequired() }}}
     >
-</meta>
-<meta id="tmpl-nf-field-submit" type="text/template">
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
 	&lt;input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="{{{data.type}}}" value="{{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}" {{{ ( data.disabled ) ? 'aria-disabled="true"' : '' }}}>
-</meta><meta id="tmpl-nf-field-button" type="text/template">
+</script><script id="tmpl-nf-field-button" type="text/template">
     <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
         {{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}
     </button>
-</meta><meta>
+</script><script>
 function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e&lt;&lt;16|h&lt;&lt;8|k;e=63&amp;d>>18;h=63&amp;d>>12;k=63&amp;d>>6;d&amp;=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c&lt;
 a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g&lt;&lt;6)+b,e+=6;8&lt;=e;)((l=255&amp;g>>>(e-=8))||d-2>c)&amp;&amp;(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
 b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
@@ -32911,7 +32911,7 @@ ai_insert ('after', '.site-content', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2Rl
 };
 if (document.readyState === 'complete' || (document.readyState !== 'loading' &amp;&amp; !document.documentElement.doScroll)) ai_run_266600721081 (); else document.addEventListener ('DOMContentLoaded', ai_run_266600721081);
 ai_js_code = true;
-</meta>
+</script>
 
 </a></code></a></li></ul></article></div>
 ]]></content:encoded>
@@ -33160,7 +33160,7 @@ border-radius: 80px;
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -33181,7 +33181,7 @@ border-radius: 80px;
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-165949" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/using-bufread-faster-rust-io-speed/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/using-bufread-faster-rust-io-speed/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-165949" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/using-bufread-faster-rust-io-speed/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-165949" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/using-bufread-faster-rust-io-speed/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
@@ -33543,7 +33543,7 @@ border-radius: 80px;
 <h4><a href="https://codesandbox.io/s/using-camome-to-design-highly-customizable-ui-obp2xl">Using Camome to design highly customizable UI</a></h4>
 <p>Using Camome to design highly customizable UI by miracle</p>
 </blockquote>
-<p><meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta async="async" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"/></p>
+<p><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script async="async" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"/></p>
 <h2 id="creating-navbar">Creating our Navbar</h2>
 <p>Open the <code>camome-project/index.html</code> file we previously prepared to begin creating our home page. Following that, we’ll make a <code>nav</code> element to house our navigation link and toggle button:</p>
 <pre>&lt;nav>
@@ -35291,7 +35291,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 <iframe title="Comment Form" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=217016018&amp;postid=165251&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;jetpack_comments_nonce=b4cfc29b07&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_US&amp;jetpack_version=12.0&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;token_key=%3Bnormal%3B&amp;sig=9fbdecd0ca2a003370e7834629b0cf17c123605a#parent=https%3A%2F%2Fblog.logrocket.com%2Fusing-react-lifecycle-methods-clojure-re-frame%2F" name="jetpack_remote_comment"  class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups">
 									</iframe>
 <!--[if !IE]><!-->
-<meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>
 						document.addEventListener('DOMContentLoaded', function () {
 							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
 							for (var i = 0; i &lt; commentForms.length; i++) {
@@ -35299,7 +35299,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 								commentForms[i].scrolling = 'no';
 							}
 						});
-					</meta>
+					</script>
 <!--<![endif]-->
 </form>
 </div>
@@ -35329,7 +35329,7 @@ Kingsley Ubah <span class="btn follow">Follow</span></a>
 </a>
 </footer>
 </div>
-<meta data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><meta>window.onload = function() {
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"/><script>window.onload = function() {
   if (typeof hljs !== 'undefined')
   {
   document.querySelectorAll('pre').forEach((block) => {
@@ -35353,7 +35353,7 @@ jQuery(".aretags li a:contains('archive')").parent('li').hide();
 jQuery(".aretags li a:contains('86919')").parent('li').hide();
 jQuery(".aretags li a:contains('72293')").parent('li').hide();
 jQuery(".aretags li a:contains('custom-plug')").parent('li').hide();
-};</meta> <div >
+};</script> <div >
 <div class="grofile-hash-map-529455f1db474e8d1504dfedb1285f0b">
 </div>
 <div class="grofile-hash-map-de8225213d7b8bc59895625735574f7d">
@@ -35505,26 +35505,26 @@ jQuery(".aretags li a:contains('custom-plug')").parent('li').hide();
 </div>
 </div>
 </div>
-<meta type="text/javascript">
+<script type="text/javascript">
 		window.WPCOM_sharing_counts = {"http:\/\/blog.logrocket.com\/using-react-lifecycle-methods-clojure-re-frame\/":165251};
-	</meta>
+	</script>
 <link rel="stylesheet" id="all-css-0" href="https://blog.logrocket.com/_static/??-eJytkcFOw0AMRH8IxyQIlAviW5aN27p4vau1rah/T0CECxxaxNWeeTOWcW2QqzqpYwloEkdWwzN5S/kNxmm4x1KXEDLMqdcwErSVG3V4DV2Ehmx2h3/B7Nt98E1izRLLh9QMl2Qn3tg2FNYfYXuSsp4THGovhsmM/MvM1iRdoDZW3hggfDz5rZTDJoO0ktVC17aAEuIMLXX/n0JgfhHCzVzDfz3SvEf26J8veSnP49M8PU4P4zy/A8Motq0=" type="text/css" media="all"/>
-<meta id="code-prettify-js-before">
+<script id="code-prettify-js-before">
 var codePrettifyLoaderBaseUrl = "https:\/\/blog.logrocket.com\/wp-content\/plugins\/code-prettify\/prettify";
-</meta>
-<meta src="https://blog.logrocket.com/wp-content/plugins/code-prettify/prettify/run_prettify.js?ver=1.4.0" id="code-prettify-js"/>
-<meta src="https://secure.gravatar.com/js/gprofiles.js?ver=202317" id="grofiles-cards-js"/>
-<meta id="wpgroho-js-extra">
+</script>
+<script src="https://blog.logrocket.com/wp-content/plugins/code-prettify/prettify/run_prettify.js?ver=1.4.0" id="code-prettify-js"/>
+<script src="https://secure.gravatar.com/js/gprofiles.js?ver=202317" id="grofiles-cards-js"/>
+<script id="wpgroho-js-extra">
 var WPGroHo = {"my_hash":""};
-</meta>
-<meta id="jetpack-lazy-images-js-extra">
+</script>
+<script id="jetpack-lazy-images-js-extra">
 var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
-</meta>
-<meta id="jetpack-carousel-js-extra">
+</script>
+<script id="jetpack-carousel-js-extra">
 var jetpackSwiperLibraryPath = {"url":"https:\/\/blog.logrocket.com\/wp-content\/mu-plugins\/jetpack-12.0\/_inc\/build\/carousel\/swiper-bundle.min.js"};
 var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","nonce":"84e2b202f1","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size &lt;span class=\"photo-size\">{0}&lt;span class=\"photo-size-times\">\u00d7&lt;\/span>{1}&lt;\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/blog.logrocket.com\/wp-login.php?redirect_to=http%3A%2F%2Fblog.logrocket.com%2Fusing-react-lifecycle-methods-clojure-re-frame%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
-</meta>
-<meta id="nf-front-end-js-extra">
+</script>
+<script id="nf-front-end-js-extra">
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
@@ -35535,19 +35535,19 @@ var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a v
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
 var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an &lt;span class=\"ninja-forms-req-symbol\">*&lt;\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"recaptchaConsentMissing":"reCapctha validation couldn't load.","recaptchaMissingCookie":"reCaptcha v3 validation couldn't load the cookie needed to submit the form.","recaptchaConsentEvent":"Accept reCaptcha cookies before sending the form."};
 var nfFrontEnd = {"adminAjax":"https:\/\/blog.logrocket.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c12915f8f5","requireBaseUrl":"https:\/\/blog.logrocket.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":"light","filter_esc_status":"false","nf_consent_status_response":[]};
-</meta>
-<meta id="nf-mp-front-end-js-extra">
+</script>
+<script id="nf-mp-front-end-js-extra">
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
 var nfMPSettings = {"prevLabel":"Previous","nextLabel":"Next"};
-</meta>
-<meta type="text/javascript" src="https://blog.logrocket.com/_static/??-eJy1UdFuwjAM/KGloaBNvEz7FJQmprgkceQ4VN3XL0wDVRpMVGiPtu/O9p0ek7IUBaLoUFTypceY9QCSjD2qdt2sdCBXPGQ9pp7pQM2QX/SMJgcIdRrAYQmYD9rkDFI1shaoQ24CxgWkjkiysEkLeQjtSp0QxkQsqiu9GomPhqlEt0AmmEyRpyYde7fwgmvvwsFofXHwPbQUQuUrhuSnW8L37P8pdieIjlibIhSMCNorzJvPSWEwfd3kMIvGqsgZrCBFRV0GPtUY/m/frPHoll31RncFvdP2nFEGfwVcGnOX5lbWQOt7lhjuIboq01GEWz5fzokYB6P2xCHPM8So91yhqr6vHKRfHy3gP0A9zxyegzL+KZ1QvKBKhuUZlSyTh5rnREX+OucjvLdv2/XretNut8MXlIuaKg=="/><meta id="sharing-js-js-extra">
+</script>
+<script type="text/javascript" src="https://blog.logrocket.com/_static/??-eJy1UdFuwjAM/KGloaBNvEz7FJQmprgkceQ4VN3XL0wDVRpMVGiPtu/O9p0ek7IUBaLoUFTypceY9QCSjD2qdt2sdCBXPGQ9pp7pQM2QX/SMJgcIdRrAYQmYD9rkDFI1shaoQ24CxgWkjkiysEkLeQjtSp0QxkQsqiu9GomPhqlEt0AmmEyRpyYde7fwgmvvwsFofXHwPbQUQuUrhuSnW8L37P8pdieIjlibIhSMCNorzJvPSWEwfd3kMIvGqsgZrCBFRV0GPtUY/m/frPHoll31RncFvdP2nFEGfwVcGnOX5lbWQOt7lhjuIboq01GEWz5fzokYB6P2xCHPM8So91yhqr6vHKRfHy3gP0A9zxyegzL+KZ1QvKBKhuUZlSyTh5rnREX+OucjvLdv2/XretNut8MXlIuaKg=="/><script id="sharing-js-js-extra">
 var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
-</meta>
-<meta src="https://blog.logrocket.com/wp-content/mu-plugins/jetpack-12.0/_inc/build/sharedaddy/sharing.min.js?ver=12.0" id="sharing-js-js"/>
-<meta id="sharing-js-js-after">
+</script>
+<script src="https://blog.logrocket.com/wp-content/mu-plugins/jetpack-12.0/_inc/build/sharedaddy/sharing.min.js?ver=12.0" id="sharing-js-js"/>
+<script id="sharing-js-js-after">
 var windowOpen;
 			( function () {
 				function matches( el, sel ) {
@@ -35647,16 +35647,16 @@ var windowOpen;
 					}
 				} );
 			} )();
-</meta>
+</script>
 <!--[if IE]>
-		<meta type="text/javascript">
+		<script type="text/javascript">
 			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
 				// window.location.reload() doesn't respect the Hash in IE
 				window.location.hash = window.location.hash;
 			}
-		</meta>
+		</script>
 		<![endif]-->
-<meta type="text/javascript">
+<script type="text/javascript">
 			(function () {
 				var comm_par_el = document.getElementById( 'comment_parent' ),
 					comm_par = ( comm_par_el &amp;&amp; comm_par_el.value ) ? comm_par_el.value : '',
@@ -35738,13 +35738,13 @@ var windowOpen;
 				})
 
 			})();
-		</meta>
-<meta src="https://stats.wp.com/e-202317.js" defer="defer"/>
-<meta>
+		</script>
+<script src="https://stats.wp.com/e-202317.js" defer="defer"/>
+<script>
 		_stq = window._stq || [];
 		_stq.push([ 'view', {v:'ext',blog:'217016018',post:'165251',tz:'-4',srv:'blog.logrocket.com',hp:'vip',j:'1:12.0'} ]);
 		_stq.push([ 'clickTrackerInit', '217016018', '165251' ]);
-	</meta><meta id="tmpl-nf-layout" type="text/template">
+	</script><script id="tmpl-nf-layout" type="text/template">
 	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
 		{{{ ( 1 == data.settings.show_title ) ? '&lt;h' + data.settings.form_title_heading_level + '>' + data.settings.title + '' : '' }}}
 	</span>
@@ -35755,27 +35755,27 @@ var windowOpen;
 		<div class="nf-form-layout"/>
 		<div class="nf-after-form"/>
 	</div>
-</meta>
-<meta id="tmpl-nf-empty" type="text/template">
+</script>
+<script id="tmpl-nf-empty" type="text/template">
 
-</meta>
-<meta id="tmpl-nf-before-form" type="text/template">
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
 	{{{ data.beforeForm }}}
-</meta><meta id="tmpl-nf-after-form" type="text/template">
+</script><script id="tmpl-nf-after-form" type="text/template">
 	{{{ data.afterForm }}}
-</meta><meta id="tmpl-nf-before-fields" type="text/template">
+</script><script id="tmpl-nf-before-fields" type="text/template">
     <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
     {{{ data.beforeFields }}}
-</meta><meta id="tmpl-nf-after-fields" type="text/template">
+</script><script id="tmpl-nf-after-fields" type="text/template">
     {{{ data.afterFields }}}
     <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"/>
     <div class="nf-form-hp"/>
-</meta>
-<meta id="tmpl-nf-before-field" type="text/template">
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
     {{{ data.beforeField }}}
-</meta><meta id="tmpl-nf-after-field" type="text/template">
+</script><script id="tmpl-nf-after-field" type="text/template">
     {{{ data.afterField }}}
-</meta><meta id="tmpl-nf-form-layout" type="text/template">
+</script><script id="tmpl-nf-form-layout" type="text/template">
 	<form>
 		<div>
 			<div class="nf-before-form-content"/>
@@ -35783,22 +35783,22 @@ var windowOpen;
 			<div class="nf-after-form-content"/>
 		</div>
 	</form>
-</meta><meta id="tmpl-nf-form-hp" type="text/template">
+</script><script id="tmpl-nf-form-hp" type="text/template">
 	<label id="nf-label-field-hp-{{{ data.id }}}" for="nf-field-hp-{{{ data.id }}}" >
 		{{{ nfi18n.formHoneypot }}}
 		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value="" aria-labelledby="nf-label-field-hp-{{{ data.id }}}"/>
 	</label>
-</meta>
-<meta id="tmpl-nf-field-layout" type="text/template">
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
     <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
         <div class="nf-before-field"/>
         <div class="nf-field"/>
         <div class="nf-after-field"/>
     </div>
-</meta>
-<meta id="tmpl-nf-field-before" type="text/template">
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
     {{{ data.beforeField }}}
-</meta><meta id="tmpl-nf-field-after" type="text/template">
+</script><script id="tmpl-nf-field-after" type="text/template">
     &lt;#
     /*
      * Render our input limit section if that setting exists.
@@ -35817,8 +35817,8 @@ var windowOpen;
      */
     #>
     {{{ data.afterField }}}
-</meta>
-<meta id="tmpl-nf-field-wrap" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
 	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
 		&lt;#
 		/*
@@ -35845,21 +35845,21 @@ var windowOpen;
         #>
 		{{{ data.renderDescText() }}}
 	</div>
-</meta>
-<meta id="tmpl-nf-field-wrap-no-label" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
     <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
         <div class="nf-field-label"/>
         <div class="nf-field-element">{{{ data.renderElement() }}}</div>
         <div class="nf-error-wrap"/>
     </div>
-</meta>
-<meta id="tmpl-nf-field-wrap-no-container" type="text/template">
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
 
         {{{ data.renderElement() }}}
 
         <div class="nf-error-wrap"/>
-</meta>
-<meta id="tmpl-nf-field-label" type="text/template">
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
 	<div class="nf-field-label">
 		&lt;# if ( data.type === "listcheckbox" || data.type === "listradio" ) { #>
 			<span id="nf-label-field-{{{ data.id }}}" class="nf-label-span {{{ data.renderLabelClasses() }}}">
@@ -35873,20 +35873,20 @@ var windowOpen;
 			</label>
 		&lt;# } #>
 	</div>
-</meta>
-<meta id="tmpl-nf-field-error" type="text/template">
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
 	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
-</meta><meta id="tmpl-nf-form-error" type="text/template">
+</script><script id="tmpl-nf-form-error" type="text/template">
 	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
-</meta><meta id="tmpl-nf-field-input-limit" type="text/template">
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
     {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
-</meta><meta id="tmpl-nf-field-null" type="text/template">
-</meta><meta id="tmpl-nf-field-listcheckbox" type="text/template">
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-listcheckbox" type="text/template">
     <ul >
         {{{ data.renderOptions() }}}
     </ul>
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-option" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-option" type="text/template">
     &lt;# if ( ! data.visible ) { return '' } #>
     <li>
         &lt;input type="checkbox" id="nf-field-{{{ data.fieldID }}}-{{{ data.index }}}" name="nf-field-{{{ data.fieldID }}}" class="{{{ data.classes }}} nf-element {{{ ( data.isSelected ) ? ' nf-checked' : '' }}}" value="{{{ data.value }}}" {{{ ( data.isSelected ) ? 'checked="checked"' : '' }}}
@@ -35897,8 +35897,8 @@ var windowOpen;
         >
         <label for="nf-field-{{{ data.fieldID }}}-{{{ data.index }}}" id="nf-label-field-{{{ data.fieldID }}}-{{{ data.index }}}" class="{{{ ( data.isSelected ) ? 'nf-checked-label' : '' }}}">{{{ data.label }}}</label>
     </li>
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-other" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-other" type="text/template">
     &lt;li {{{ ( ! data.visible ) ? '' : '' }}}>
         &lt;input type="checkbox"
                id="nf-field-{{{ data.fieldID }}}-other"
@@ -35912,24 +35912,24 @@ var windowOpen;
             {{{ data.renderOtherText() }}}
         </label>
     
-</meta>
-<meta id="tmpl-nf-field-listcheckbox-other-text" type="text/template">
+</script>
+<script id="tmpl-nf-field-listcheckbox-other-text" type="text/template">
     <input type="text" name="nf-field-{{{ data.fieldID }}}" class="nf-element" value="{{{ data.currentValue }}}"/>
-</meta>
-<meta id="tmpl-nf-field-input" type="text/template">
+</script>
+<script id="tmpl-nf-field-input" type="text/template">
     &lt;input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false"  class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ _.escape( data.value ) }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
            aria-labelledby="nf-label-field-{{{ data.id }}}"
 
             {{{ data.maybeRequired() }}}
     >
-</meta>
-<meta id="tmpl-nf-field-submit" type="text/template">
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
 	&lt;input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="{{{data.type}}}" value="{{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}" {{{ ( data.disabled ) ? 'aria-disabled="true"' : '' }}}>
-</meta><meta id="tmpl-nf-field-button" type="text/template">
+</script><script id="tmpl-nf-field-button" type="text/template">
     <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
         {{{ ( data.maybeFilterHTML() === 'true' ) ? _.escape( data.label ) : data.label }}}
     </button>
-</meta><meta>
+</script><script>
 function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e&lt;&lt;16|h&lt;&lt;8|k;e=63&amp;d>>18;h=63&amp;d>>12;k=63&amp;d>>6;d&amp;=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c&lt;
 a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g&lt;&lt;6)+b,e+=6;8&lt;=e;)((l=255&amp;g>>>(e-=8))||d-2>c)&amp;&amp;(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
 b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
@@ -36019,7 +36019,7 @@ ai_insert ('after', '.site-content', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2Rl
 };
 if (document.readyState === 'complete' || (document.readyState !== 'loading' &amp;&amp; !document.documentElement.doScroll)) ai_run_257026829994 (); else document.addEventListener ('DOMContentLoaded', ai_run_257026829994);
 ai_js_code = true;
-</meta>
+</script>
 
 </h3></article></div>
 ]]></content:encoded>
@@ -36702,7 +36702,7 @@ fn main () {
 #plug-survey-errors, #plug-survey-help, #plug-survey-email  {opacity:0; height:1px; transition: all 1s;overflow:hidden; width: 100%;}
 
 </meta>
-<meta>
+<script>
   jQuery("#plug-survey-framework input").click(function() {
   analytics.track('footer-poll', {
       'footer-poll-framework': jQuery(this).val()
@@ -36723,7 +36723,7 @@ fn main () {
     jQuery('#plug-survey-email').delay(800).addClass('fadeIn');
   });
   
-  </meta>
+  </script>
 </div>
 <div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-167942" class="share-twitter sd-button share-icon" href="https://blog.logrocket.com/using-rust-scoped-threads-improve-efficiency-safety/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://blog.logrocket.com/using-rust-scoped-threads-improve-efficiency-safety/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-167942" class="share-linkedin sd-button share-icon" href="https://blog.logrocket.com/using-rust-scoped-threads-improve-efficiency-safety/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-167942" class="share-facebook sd-button share-icon" href="https://blog.logrocket.com/using-rust-scoped-threads-improve-efficiency-safety/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"/></ul></div></div></div>
 <div class="clearfix mb-0"/>
