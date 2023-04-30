@@ -39,9 +39,7 @@
       <dc:creator><![CDATA[$/{CREATOR}]]></dc:creator>
       <description>Example Description</description>
 
-      <content:encoded><![CDATA[
-<a href="https://doordash.engineering/2019/09/03/designing-a-career-ladder-for-product-design/">“Designing” a Career Ladder for Product Design - DoorDash Engineering Blog</a>
-<title>“Designing” a Career Ladder for Product Design - DoorDash Engineering Blog</title>
+      <content:encoded><![CDATA[<title>“Designing” a Career Ladder for Product Design - DoorDash Engineering Blog</title>
 <section id="posthero" class="" style="background-image:url('https://i0.wp.com/doordash.engineering/wp-content/uploads/2019/09/1_I0939f-Oq5LjcrcIUnoFNw.png?fit=2544%2C1528&amp;ssl=1')">
 		<div class="container">
 			<h1>“Designing” a Career Ladder for Product Design</h1>
